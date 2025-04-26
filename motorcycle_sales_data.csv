@@ -1,0 +1,1001 @@
+Date,Brand,Model,Price,Quantity,Total Price,Customer Name,City,State,Payment Mode,Dealer
+45183,Harley-Davidson,Forty-Eight,342485,3,1027455,Taylor Nunez,Leeberg,Karnataka,Credit Card,"Robinson, Clayton and Patel"
+45241,Kawasaki,Z650,374175,3,1122525,James Johnson,Rayview,Gujarat,Credit Card,"Russell, Marks and Allen"
+45218,Suzuki,Access 125,254643,3,763929,Amanda Flores,Piercefurt,West Bengal,Debit Card,Cox Inc
+45269,Suzuki,Intruder,160051,3,480153,Rachel Davis,East Taylor,Delhi,Debit Card,Miller-Duran
+45410,Honda,CBR500R,359243,2,718486,Daniel Andrews DDS,North Toni,West Bengal,Cash,"Henry, Hanson and Edwards"
+45745,Royal Enfield,Classic 350,86445,3,259335,Nicole Grimes,South Marktown,Karnataka,Cash,"Nelson, Bailey and Shields"
+45301,Ducati,Panigale,257527,2,515054,Luis Hansen,West Kimberly,Karnataka,Online,Smith Group
+45149,Suzuki,Gixxer,435144,3,1305432,Scott Todd,Yorkfort,Karnataka,Debit Card,Hawkins Group
+45240,Ducati,Scrambler,167571,2,335142,Emma Miller,Matthewview,West Bengal,Online,Hunter-Robbins
+45676,Kawasaki,Versys,280517,2,561034,Timothy Shepherd,Port Jill,West Bengal,EMI,"Sparks, Baker and Carlson"
+45374,Suzuki,Access 125,205935,2,411870,Lauren Christensen,South Michaelstad,Gujarat,Credit Card,Flores-Leblanc
+45187,Yamaha,R15,307496,3,922488,Larry Ruiz,Taylorchester,West Bengal,Online,"Ramirez, Fuller and Brown"
+45059,Kawasaki,Versys,241112,1,241112,Tracey Martin,East David,Gujarat,Credit Card,"Thomas, Becker and George"
+45327,Royal Enfield,Bullet 350,451916,3,1355748,Carrie Taylor,New Shannonshire,Maharashtra,Online,"Peters, Black and Guzman"
+45435,Suzuki,Access 125,390653,1,390653,James Shelton,South Kathleenfort,Tamil Nadu,Cash,Miller-Becker
+45080,Honda,Hornet,480271,2,960542,Walter Davies,Davisport,Karnataka,Cash,Avila-Figueroa
+45715,Kawasaki,Ninja 300,442076,2,884152,Paul Martin,Smithmouth,Rajasthan,Credit Card,Douglas Inc
+45321,Harley-Davidson,Street 750,497278,1,497278,Benjamin Allen,Juliebury,Delhi,Credit Card,Webb LLC
+45143,Suzuki,Intruder,484144,2,968288,Alexis Frank DVM,Lake Kristamouth,Tamil Nadu,Debit Card,"Hernandez, Kelly and Copeland"
+45211,Harley-Davidson,Forty-Eight,272673,3,818019,Sarah Baker,Michaelborough,Karnataka,EMI,"Armstrong, Wells and Eaton"
+45233,Yamaha,MT-15,375705,1,375705,Robert Lawrence,Dawnmouth,Karnataka,Online,Whitaker-Arroyo
+45119,Harley-Davidson,Forty-Eight,358083,2,716166,Sergio Allison,Port Kennethmouth,Rajasthan,Cash,"Griffin, Brown and Dudley"
+45289,Ducati,Monster,442190,1,442190,Daniel Mitchell,Lake Melissastad,Tamil Nadu,EMI,Ellison-Weaver
+45432,Honda,Hornet,448125,1,448125,Rachel Edwards,Elizabethberg,West Bengal,Debit Card,Snyder-Cannon
+45753,Royal Enfield,Classic 350,230506,1,230506,Michael Sanchez,East Williamside,West Bengal,Debit Card,Pierce PLC
+45623,Yamaha,R15,406248,3,1218744,Paige Allen,North Maria,Tamil Nadu,Debit Card,"Webb, Serrano and Nichols"
+45268,Harley-Davidson,Forty-Eight,474018,1,474018,Andrew Beck,East William,Tamil Nadu,Online,Brown-Patterson
+45719,Harley-Davidson,Iron 883,145810,1,145810,James Lee,Watersfort,Delhi,Online,Mccullough and Sons
+45701,Harley-Davidson,Iron 883,80100,1,80100,Luke Martin,East Ericland,Rajasthan,Cash,Sanchez LLC
+45744,Yamaha,R15,158069,1,158069,Jeremy Nicholson,Mcfarlandview,Rajasthan,Debit Card,"Berry, White and Rodriguez"
+45357,Harley-Davidson,Forty-Eight,342504,2,685008,Paul Curry MD,East Michelletown,Tamil Nadu,Cash,Lucas-Brown
+45755,Harley-Davidson,Forty-Eight,99930,2,199860,Cheryl Brown,Olsonshire,Rajasthan,Debit Card,Sheppard-Dunn
+45570,Ducati,Scrambler,124034,3,372102,Jonathan Thompson,West Matthewville,Maharashtra,Debit Card,Lee-Chavez
+45147,Kawasaki,Z650,105762,3,317286,Mr. Tom Smith,West Kevinstad,Rajasthan,Debit Card,"Williams, Juarez and Nielsen"
+45566,Kawasaki,Z650,304448,1,304448,Monica Wilkerson,Mirandaport,Gujarat,Debit Card,Quinn-Sanchez
+45548,Royal Enfield,Bullet 350,207849,1,207849,Emily Jones,Elizabethstad,Rajasthan,EMI,"Wiggins, Ford and Perez"
+45753,Royal Enfield,Classic 350,111031,3,333093,Nicole Shelton,East Nicholastown,Rajasthan,Credit Card,Duke PLC
+45130,Kawasaki,Ninja 300,173856,3,521568,Elizabeth Castaneda,West Reginaldfort,Rajasthan,Debit Card,Ray-Mayer
+45376,Honda,CBR500R,193617,3,580851,Tracy Rubio,Lake Juliemouth,Delhi,EMI,"Gonzalez, Hayes and Cox"
+45123,Ducati,Scrambler,288213,2,576426,Lisa Anderson,Staffordside,Delhi,Online,"Richardson, Bates and Conrad"
+45249,Kawasaki,Versys,251678,2,503356,Matthew Carr,Debbiemouth,Karnataka,Online,Mercer-Chan
+45752,Royal Enfield,Bullet 350,374473,2,748946,Denise Brown,Sherriberg,Gujarat,Credit Card,"Jackson, Bailey and Mccarthy"
+45633,Harley-Davidson,Forty-Eight,490412,2,980824,Joshua Rose,Johnberg,Tamil Nadu,Online,"Lopez, Jenkins and Hudson"
+45594,Honda,CB Shine,185519,2,371038,Cynthia Miller,South Jackton,Karnataka,Cash,Hernandez PLC
+45709,Kawasaki,Versys,165975,2,331950,Katherine Bennett,Kevinville,Delhi,Credit Card,Fisher Inc
+45223,Harley-Davidson,Iron 883,258212,1,258212,Nathan Terry,South Williamberg,Rajasthan,Debit Card,"Frank, Mendoza and Daniels"
+45095,Yamaha,FZ,466489,2,932978,Michael Peterson,West April,Rajasthan,Online,"Brown, Walls and Weiss"
+45636,Honda,CB Shine,433462,3,1300386,Jennifer Holden,Thorntonview,Delhi,Debit Card,Trujillo Ltd
+45651,Ducati,Panigale,150815,3,452445,Kevin Wells,North Gregorystad,West Bengal,EMI,Perez Inc
+45520,Royal Enfield,Bullet 350,203097,1,203097,Sally Vargas,North Andrew,Gujarat,Online,Hall and Sons
+45489,Yamaha,R15,469133,3,1407399,Eric Cuevas,Kingfurt,Delhi,Credit Card,Simmons-Andrews
+45307,Kawasaki,Z650,285302,3,855906,David Johnson,Raymondchester,Delhi,Debit Card,Brown PLC
+45735,Yamaha,FZ,411792,1,411792,Jacob Sanchez,Hendersonland,Tamil Nadu,Online,Gomez-Young
+45297,Harley-Davidson,Iron 883,418567,3,1255701,Patricia Tran,Cynthiaport,Karnataka,Credit Card,"Torres, Richards and Harris"
+45692,Yamaha,MT-15,248433,2,496866,Janice Chen,Brandystad,Maharashtra,Debit Card,Stevenson LLC
+45215,Suzuki,Gixxer,80323,2,160646,Timothy Bailey,North Joseph,Karnataka,Credit Card,Cooper-Morris
+45414,Yamaha,FZS,305130,1,305130,Joseph Johnson,Shermanborough,Karnataka,Online,"Carter, Wilson and Ray"
+45392,Suzuki,Gixxer,226452,2,452904,Madeline Goodwin,New James,Karnataka,Cash,"Hernandez, Perez and Weaver"
+45589,Kawasaki,Z650,453815,3,1361445,Paige Aguilar,Portershire,West Bengal,Online,Gonzalez LLC
+45348,Kawasaki,Versys,390785,2,781570,Kristen Johnson,Adamborough,Maharashtra,EMI,Christian and Sons
+45759,Suzuki,Intruder,358260,2,716520,Samantha Terry,Franciscoborough,Gujarat,EMI,Smith-Lopez
+45606,Royal Enfield,Classic 350,474409,2,948818,William Moss,West Brian,Rajasthan,Cash,Taylor-Morton
+45194,Ducati,Monster,148586,1,148586,Jacob Turner,Brandonville,Gujarat,Credit Card,"Wilson, Joseph and Jones"
+45486,Yamaha,R15,460840,1,460840,Russell Garner,Port Stephanieberg,Karnataka,Online,Johnson and Sons
+45646,Harley-Davidson,Forty-Eight,478481,1,478481,Joshua Delgado,Thomasland,Maharashtra,Cash,Brock-Horne
+45414,Honda,Hornet,93868,2,187736,Andrea Nash,Saraside,Delhi,Debit Card,"Garrett, Valenzuela and Santiago"
+45246,Royal Enfield,Bullet 350,278415,3,835245,Angel Mckinney,New Eric,Rajasthan,Online,Castillo Ltd
+45108,Suzuki,Intruder,270503,1,270503,Luis Jones,Kingfort,Gujarat,Credit Card,Stewart and Sons
+45091,Yamaha,R15,469862,2,939724,Wayne Peterson,Timothyville,Maharashtra,Online,Vega PLC
+45114,Royal Enfield,Himalayan,482732,3,1448196,William Johnson,North Jennafurt,Maharashtra,EMI,Lee Inc
+45075,Honda,CBR500R,370226,1,370226,Jared Alvarez,East Patrickfurt,Delhi,Cash,"Hughes, Moore and Smith"
+45513,Suzuki,Intruder,136636,1,136636,James Webb,Blairview,Delhi,Cash,Castillo-Barry
+45103,Yamaha,FZ,143032,1,143032,Monique Castro,Samuelview,Delhi,EMI,"Keller, Hill and Williams"
+45333,Royal Enfield,Bullet 350,320174,3,960522,Caitlin Bauer,Port Ivan,Karnataka,Debit Card,Holloway PLC
+45259,Kawasaki,Ninja 300,225420,2,450840,David Morgan,Port Charlesfurt,Tamil Nadu,EMI,"Hernandez, Howard and Brown"
+45655,Suzuki,Gixxer,89620,1,89620,Stephen Odonnell,Shawnfort,West Bengal,Cash,Mcgrath-Grant
+45397,Kawasaki,Z650,209054,1,209054,Andrew Johnson,New William,Gujarat,Debit Card,Gilmore Group
+45289,Honda,Unicorn,348015,2,696030,Aaron Saunders,South Timothy,Gujarat,Debit Card,"Bailey, Larson and White"
+45367,Suzuki,Intruder,476466,2,952932,Joshua Harris,North Jamesstad,Maharashtra,Online,"Williams, Townsend and Bennett"
+45286,Honda,Hornet,326735,2,653470,Jose Rivera,Ruthfort,Delhi,EMI,Johnson-Smith
+45292,Yamaha,R15,274673,1,274673,Brittany Hawkins,Matthewmouth,Maharashtra,EMI,Alvarez Inc
+45368,Harley-Davidson,Street 750,89366,3,268098,Richard Scott,North Sarah,Tamil Nadu,Cash,Mckinney-Duncan
+45400,Royal Enfield,Bullet 350,134852,3,404556,Kaitlyn Owens,Robertsburgh,Tamil Nadu,Credit Card,Brown PLC
+45571,Yamaha,FZS,255282,3,765846,David Harrington MD,North Debraside,West Bengal,Credit Card,"James, Mitchell and Farley"
+45345,Honda,CBR500R,214746,3,644238,John Shah,South Ryanstad,Karnataka,Cash,"White, Ray and Mendez"
+45283,Kawasaki,Z650,206141,1,206141,Michael Flynn,Markfort,West Bengal,Debit Card,Gould Inc
+45580,Kawasaki,Ninja 300,262711,2,525422,Ryan Vasquez,New Jacobmouth,Karnataka,Cash,Boone PLC
+45328,Royal Enfield,Himalayan,433804,1,433804,Barbara May,East Jessica,West Bengal,EMI,Lopez-Jenkins
+45771,Honda,CBR500R,328853,2,657706,Nathan Mcconnell,Crawfordville,Maharashtra,EMI,Hayes Inc
+45584,Ducati,Monster,227285,1,227285,Madison Coleman,Mariastad,Delhi,Cash,Marshall Group
+45208,Suzuki,Gixxer,182887,3,548661,Wesley Cook,Blackmouth,West Bengal,Credit Card,"Bryan, Morris and Charles"
+45736,Kawasaki,Z650,296319,1,296319,Nancy Vasquez,Jamesmouth,Rajasthan,EMI,Miller-Kelley
+45370,Yamaha,FZS,249622,2,499244,Michael Rogers,South Dakota,Rajasthan,Debit Card,Carey Ltd
+45398,Royal Enfield,Bullet 350,161122,2,322244,Anthony Douglas,New Matthewmouth,Gujarat,EMI,Mendoza PLC
+45188,Ducati,Scrambler,394847,2,789694,Gabriela Reyes,Lake Denisemouth,Tamil Nadu,Debit Card,Johnson Group
+45505,Royal Enfield,Bullet 350,177311,1,177311,Thomas Sullivan,Lake David,Delhi,Debit Card,Bentley-Campbell
+45711,Ducati,Monster,453919,3,1361757,Christy Woodward MD,New Prestonport,Maharashtra,Cash,Davidson-Lopez
+45310,Suzuki,Intruder,275849,2,551698,Shannon Stanley,West Peterstad,Delhi,EMI,Pacheco and Sons
+45525,Royal Enfield,Himalayan,487134,1,487134,David Bautista,South Susanton,Delhi,Credit Card,"Gonzalez, Patton and Terry"
+45352,Harley-Davidson,Street 750,121194,2,242388,David Wilson,Port Scottchester,Tamil Nadu,Credit Card,Nelson-James
+45752,Kawasaki,Z650,391787,1,391787,Zachary Frederick,Hartmantown,Gujarat,Credit Card,Davidson-Nixon
+45757,Kawasaki,Versys,130486,3,391458,Christian Hebert,Dunnborough,Karnataka,EMI,"Hernandez, Gonzalez and Chavez"
+45548,Ducati,Panigale,117332,1,117332,Lee Ford,Watsonchester,Maharashtra,Cash,"Crawford, Anderson and Thompson"
+45146,Ducati,Scrambler,429816,2,859632,Tina Carpenter,Goodmanville,Gujarat,Online,Weiss and Sons
+45069,Ducati,Scrambler,121989,2,243978,Kathryn Gibson,New Brandon,Maharashtra,EMI,"Turner, Wu and Smith"
+45334,Suzuki,Gixxer,370441,1,370441,Natalie Mcclain,East Sandra,Tamil Nadu,Debit Card,Young Group
+45185,Royal Enfield,Himalayan,456438,2,912876,Elizabeth Wright,Lake Amanda,Rajasthan,Cash,"Chapman, Smith and Burke"
+45715,Royal Enfield,Bullet 350,326725,3,980175,Ronald Pierce,East Christina,Tamil Nadu,Debit Card,"Wagner, Wilson and Hughes"
+45571,Yamaha,R15,269551,3,808653,Larry Jackson,Lake Dawnland,West Bengal,Credit Card,Parsons PLC
+45573,Honda,Unicorn,453293,2,906586,Donna White,Jenniferport,Tamil Nadu,Credit Card,Hunt-Wright
+45536,Yamaha,MT-15,336989,1,336989,Laura Brock,East Lucasview,Karnataka,Debit Card,"Davis, Smith and Flowers"
+45097,Kawasaki,Z650,175909,3,527727,Elizabeth Henson,Lake Caitlinview,Gujarat,Debit Card,Wolfe-Peterson
+45449,Royal Enfield,Bullet 350,88661,2,177322,Lisa Rose,North Michael,Rajasthan,Online,Schwartz and Sons
+45097,Harley-Davidson,Forty-Eight,80599,2,161198,Jeffrey Graves,Reedberg,Maharashtra,Debit Card,"Oliver, Gallegos and Hoover"
+45089,Yamaha,MT-15,206562,3,619686,Jason Williams,East Peterborough,Tamil Nadu,Online,Torres-Murphy
+45147,Ducati,Panigale,257395,2,514790,James Davis,West Brettchester,Karnataka,Debit Card,White-Watson
+45594,Honda,Unicorn,292479,3,877437,James Peterson,Howellport,West Bengal,EMI,"Thompson, Allen and Mcgee"
+45611,Honda,Hornet,475624,1,475624,Rachel Pena,Hodgesfurt,Maharashtra,Online,"Richards, Wade and Bailey"
+45133,Ducati,Monster,456903,2,913806,Paul Huang,Port Jordanberg,Rajasthan,Credit Card,Harris Group
+45504,Suzuki,Access 125,157077,2,314154,Robert Moore,Kennedyfurt,Tamil Nadu,Online,"Oneill, Simon and Collins"
+45670,Yamaha,FZS,254063,1,254063,Kathleen Moore,Williamshaven,Tamil Nadu,Online,Ryan-Soto
+45690,Royal Enfield,Himalayan,124291,1,124291,Sally Brown,Morganton,West Bengal,Debit Card,Combs Group
+45216,Yamaha,MT-15,423641,1,423641,Kelly Thompson,East David,Karnataka,Debit Card,"Ross, Lynch and Taylor"
+45539,Ducati,Monster,215308,1,215308,John Daniels,Port Jerryview,Gujarat,Cash,Hinton and Sons
+45742,Honda,CB Shine,274445,3,823335,Tyler Bowman,Lake Jenniferland,Gujarat,Cash,King PLC
+45548,Kawasaki,Z650,448080,3,1344240,Timothy Long,West Kent,West Bengal,Credit Card,Lewis-Brown
+45517,Harley-Davidson,Forty-Eight,223910,2,447820,Emily Allison,Debraborough,Tamil Nadu,Credit Card,Moses PLC
+45069,Suzuki,Access 125,249322,3,747966,Elizabeth Johnson,Port Joseph,Rajasthan,Cash,Acevedo-Baker
+45575,Suzuki,Intruder,345512,1,345512,Sean King,Ramirezfurt,Delhi,Credit Card,Campbell-Walsh
+45564,Ducati,Monster,320326,3,960978,Michelle Chung,East Margaret,Delhi,Credit Card,Arellano-Cherry
+45340,Suzuki,Intruder,477413,2,954826,Gina Best,East Carly,Maharashtra,EMI,Rogers LLC
+45408,Yamaha,FZS,162513,3,487539,Caitlin Miller,New Amanda,West Bengal,EMI,Price Ltd
+45332,Yamaha,FZS,291898,3,875694,Jennifer Hull,Dorisville,Karnataka,Online,"Wallace, Flores and Hampton"
+45229,Suzuki,Access 125,349528,2,699056,Michelle Craig,Rodriguezland,Maharashtra,EMI,"Banks, Bauer and Mack"
+45733,Ducati,Panigale,178081,2,356162,Barry Campbell,Port Paulborough,Rajasthan,Online,Ray and Sons
+45095,Harley-Davidson,Forty-Eight,272781,2,545562,Nicholas Martin,Jonesfort,Gujarat,Cash,Marks Ltd
+45294,Yamaha,R15,288011,1,288011,Billy Curtis,Port Kimberlyport,Gujarat,Online,Walters-Rogers
+45180,Kawasaki,Versys,110756,1,110756,Jill Salinas,Staceyberg,Rajasthan,EMI,Baker-Carter
+45200,Harley-Davidson,Forty-Eight,230224,3,690672,Jermaine Cummings,Sanchezview,Delhi,Credit Card,"Cole, Velazquez and Goodman"
+45175,Kawasaki,Ninja 300,157454,3,472362,Amanda Griffin,North Daniel,Karnataka,Online,"Castillo, Perez and Garcia"
+45349,Harley-Davidson,Iron 883,350607,3,1051821,Bruce Allen,Jonesland,Tamil Nadu,Cash,Hampton Inc
+45630,Ducati,Scrambler,97210,2,194420,Reginald Foster,Lake Donaldville,West Bengal,Debit Card,Mitchell Inc
+45234,Royal Enfield,Himalayan,392813,3,1178439,Casey Stephens,Lake Barbara,Maharashtra,EMI,Petty-Duncan
+45348,Ducati,Scrambler,337724,3,1013172,Danny Simpson,Lake Kevinville,Tamil Nadu,Credit Card,"Jefferson, Chan and Bell"
+45365,Ducati,Monster,266925,1,266925,Carlos Price,Angelfurt,Tamil Nadu,Credit Card,Wallace Group
+45747,Honda,Hornet,362757,2,725514,Sherry Hernandez,Adamfort,Delhi,Credit Card,Hamilton-Benitez
+45116,Ducati,Scrambler,380672,3,1142016,Ms. Emily Richardson,Port Ryanmouth,Maharashtra,Cash,Avila Inc
+45401,Kawasaki,Versys,399298,3,1197894,Nicole Bartlett,Sophiamouth,Tamil Nadu,Credit Card,Reynolds Group
+45071,Honda,Hornet,344922,1,344922,Kenneth Villegas,East Joseph,Karnataka,Online,"Stone, Monroe and Spencer"
+45307,Suzuki,Gixxer,293782,2,587564,Matthew Davis,Danielland,Tamil Nadu,Cash,Contreras Group
+45561,Kawasaki,Ninja 300,325509,2,651018,Mary Hernandez,North Shawnfurt,Delhi,Debit Card,Hicks-Gibson
+45426,Yamaha,MT-15,442768,1,442768,Timothy Trevino,New Marybury,Karnataka,EMI,"Pearson, Ramirez and Garza"
+45322,Honda,Hornet,277604,1,277604,Jeremiah Mccall,North Traci,Delhi,Credit Card,"Conner, Lambert and Russell"
+45515,Kawasaki,Z650,132641,2,265282,Yvonne Bradley,Elliotthaven,Maharashtra,Cash,Chapman-Mccarthy
+45269,Yamaha,R15,235614,2,471228,Amber Martinez,Lake Bradley,Rajasthan,Debit Card,Armstrong Ltd
+45621,Harley-Davidson,Iron 883,180018,1,180018,Tiffany Copeland,Nicholaston,Gujarat,Online,Williams-Clark
+45659,Yamaha,FZ,383338,3,1150014,Ian Brady,North Stevenshire,Gujarat,EMI,"Macdonald, Larson and Brown"
+45229,Yamaha,FZ,296016,2,592032,Mrs. Erin Murphy,Port Christopherside,West Bengal,EMI,Rojas LLC
+45474,Honda,CBR500R,281846,3,845538,Corey Crawford,Fisherton,Rajasthan,Credit Card,King-Rodriguez
+45424,Suzuki,Gixxer,402815,3,1208445,William Turner,Lake Kimberlyton,Delhi,Cash,"Castaneda, Noble and Parker"
+45571,Royal Enfield,Bullet 350,82775,2,165550,Jessica Harrison,Edwinbury,Gujarat,EMI,"Carroll, Garrett and May"
+45356,Royal Enfield,Classic 350,175595,1,175595,Denise Sanchez,South Tiffanychester,Karnataka,Debit Card,"Lee, Lewis and Orozco"
+45220,Kawasaki,Z650,133410,3,400230,Mark Barnes,West Andreashire,Gujarat,EMI,Moore-Clark
+45283,Yamaha,FZS,169897,1,169897,Daniel Martin,Lindsayborough,Maharashtra,Debit Card,Walsh Inc
+45689,Royal Enfield,Himalayan,113495,3,340485,Sarah Holt,Port Jamesfurt,Karnataka,Debit Card,Espinoza-Shepherd
+45373,Ducati,Monster,185600,2,371200,Ann Smith,Port Kelly,Rajasthan,Debit Card,Mccarthy LLC
+45519,Royal Enfield,Classic 350,201225,2,402450,Mr. Joe Wise,Lake Cindyburgh,Gujarat,Debit Card,"Day, Palmer and Morales"
+45723,Harley-Davidson,Forty-Eight,488863,2,977726,Erika Smith,New Marcside,Maharashtra,Cash,Newman-Bowman
+45346,Harley-Davidson,Street 750,403897,3,1211691,Ashley Mercado,Davidland,West Bengal,Debit Card,Jimenez-Gardner
+45074,Kawasaki,Z650,328022,2,656044,Stephen Cooper,Harrellborough,West Bengal,Debit Card,"Long, Lopez and Taylor"
+45369,Honda,Hornet,365608,2,731216,Christian Baker,South Todd,Tamil Nadu,Online,"Cunningham, Miller and Richards"
+45078,Kawasaki,Versys,210739,3,632217,Charles Taylor,East Cheryl,Maharashtra,Online,Sullivan Group
+45571,Suzuki,Gixxer,314946,3,944838,Adam Williams,Bradbury,Delhi,Debit Card,"Wise, Cummings and Wang"
+45255,Kawasaki,Ninja 300,393332,2,786664,Lisa Smith,North Samueltown,West Bengal,Cash,"Scott, Barnes and Ray"
+45198,Kawasaki,Ninja 300,149834,1,149834,Holly Howard,Port Charlesmouth,Rajasthan,Cash,"Jones, Williams and Taylor"
+45165,Harley-Davidson,Iron 883,458387,3,1375161,Brittany Walker,Martinton,Gujarat,EMI,Johns-Esparza
+45493,Harley-Davidson,Forty-Eight,243805,2,487610,Margaret Dorsey,Whiteview,Tamil Nadu,Cash,Jones-Castro
+45386,Suzuki,Intruder,147139,3,441417,Michelle Parsons,Lake Michaelshire,Gujarat,Online,Flores Inc
+45178,Kawasaki,Versys,285213,2,570426,Kevin Hayes,North Michelleland,Maharashtra,Cash,"Mcdowell, Haas and Lam"
+45474,Royal Enfield,Classic 350,196802,1,196802,Diane Fisher,Baldwinchester,Karnataka,Online,"Hernandez, Hernandez and Norman"
+45200,Suzuki,Intruder,157319,2,314638,Kyle Martinez Jr.,North Kimberlyshire,Tamil Nadu,Online,"Ross, Martinez and Sellers"
+45771,Harley-Davidson,Iron 883,206555,1,206555,Sharon Bradshaw,Youngville,Gujarat,Credit Card,White Group
+45379,Harley-Davidson,Iron 883,296758,3,890274,Jesus Sanchez,East Jasonland,Maharashtra,EMI,Duran and Sons
+45413,Harley-Davidson,Iron 883,493030,1,493030,Brian Martin,Kevinberg,Gujarat,EMI,"Frazier, Jacobs and Lester"
+45587,Suzuki,Intruder,149215,3,447645,Michael Farmer,Marystad,Karnataka,Credit Card,"Harding, Williams and Acosta"
+45597,Honda,CB Shine,291537,3,874611,Robert Mclean,Jenniferfurt,Delhi,Cash,Ford-Campos
+45514,Suzuki,Access 125,393047,2,786094,Kim Gutierrez,West Jeremy,Karnataka,Online,Zuniga-Graham
+45047,Suzuki,Gixxer,177520,2,355040,Diane Buckley,Ryanmouth,Delhi,Cash,Jensen Ltd
+45059,Yamaha,MT-15,285659,3,856977,Monique Bennett,Port Melissa,West Bengal,Cash,"Warren, Oliver and Castaneda"
+45751,Kawasaki,Versys,327020,2,654040,Denise Christian,Kathleenville,Karnataka,Debit Card,Mora-Rice
+45660,Harley-Davidson,Iron 883,371506,2,743012,Amanda Davis,Williamsshire,Delhi,Online,"Cook, Castro and Edwards"
+45472,Yamaha,FZ,367373,1,367373,Craig Ochoa,Rayhaven,Rajasthan,Cash,"Hughes, Rangel and Graham"
+45082,Yamaha,FZS,245986,1,245986,Charles Austin,Martinezberg,Delhi,Online,Hayes Ltd
+45192,Kawasaki,Versys,478613,1,478613,Katrina Clay,South Shawnberg,West Bengal,Online,Gibson Ltd
+45111,Kawasaki,Ninja 300,194602,3,583806,Stephen Little,Beanburgh,Gujarat,Cash,Blackburn Inc
+45402,Yamaha,FZS,418503,2,837006,William Nelson,Nicoleberg,Tamil Nadu,Debit Card,Conway PLC
+45398,Kawasaki,Versys,305387,1,305387,Deborah Hall,Youngshire,Maharashtra,EMI,Thomas-Hughes
+45187,Harley-Davidson,Forty-Eight,160043,2,320086,Haley Parsons,Aprilport,Delhi,EMI,"Simpson, Williams and Montoya"
+45523,Honda,CBR500R,176635,1,176635,Abigail Walker,Lake Dwayne,Karnataka,Cash,"Snyder, Watson and Jackson"
+45056,Royal Enfield,Bullet 350,473731,2,947462,Stacy Fuller,Sanchezfort,Maharashtra,Online,"Richards, Lopez and Brown"
+45579,Kawasaki,Ninja 300,226723,3,680169,Katherine Brown,Jefferyview,West Bengal,Cash,"Smith, Snyder and Harper"
+45075,Kawasaki,Ninja 300,265829,1,265829,Aaron Smith,South Barbara,Maharashtra,Cash,Pennington PLC
+45427,Harley-Davidson,Street 750,129812,1,129812,Jason Daniel,South Russell,Rajasthan,Cash,Myers-Lawrence
+45087,Kawasaki,Versys,81824,3,245472,Fred Barron,South Michael,Delhi,Cash,Waller PLC
+45138,Suzuki,Intruder,174174,2,348348,Jared Phelps,Justinshire,Gujarat,EMI,Williamson-Nelson
+45601,Yamaha,FZ,145705,2,291410,David Olson,West Gary,Maharashtra,Online,"Patterson, Howell and Murphy"
+45099,Yamaha,FZ,132346,2,264692,Amber Bishop,Vincentshire,Rajasthan,Online,Haynes-Obrien
+45062,Harley-Davidson,Street 750,207241,1,207241,David Anderson,West Ashley,Delhi,Online,Brown and Sons
+45744,Harley-Davidson,Iron 883,442029,2,884058,Brandi Johnson,Derrickview,Delhi,Online,Bruce and Sons
+45126,Honda,Hornet,87164,2,174328,Morgan Hartman,Port Matthewberg,Delhi,Debit Card,Garcia PLC
+45170,Ducati,Panigale,248257,1,248257,Virginia Higgins,South Michaeltown,Tamil Nadu,Cash,Pierce-Conner
+45302,Ducati,Monster,393345,1,393345,Richard Garrett,South Toniland,Rajasthan,Cash,Garcia LLC
+45559,Suzuki,Access 125,490099,2,980198,Jillian Holloway,Marcside,Gujarat,Online,Malone and Sons
+45233,Kawasaki,Ninja 300,268996,3,806988,Sara Carroll,Matthewberg,West Bengal,Cash,Nelson-Fox
+45495,Harley-Davidson,Iron 883,381752,3,1145256,Jean Jordan,Smithberg,Karnataka,Online,Cruz and Sons
+45065,Yamaha,R15,135154,2,270308,Riley Burns,Owenschester,Rajasthan,Debit Card,"Collins, Keith and Moran"
+45240,Suzuki,Intruder,397072,3,1191216,Jodi Kirk,Danielmouth,Maharashtra,Cash,Robinson Inc
+45288,Harley-Davidson,Forty-Eight,296486,2,592972,Ryan Cooke,Carlosstad,Rajasthan,Cash,Rivera LLC
+45653,Yamaha,FZS,107022,2,214044,Denise Reilly,Annaburgh,Maharashtra,EMI,Wilkerson-Brown
+45754,Suzuki,Intruder,152970,1,152970,Amanda Reid,Murraystad,Rajasthan,Online,"Gonzalez, Kelly and Cruz"
+45419,Suzuki,Gixxer,332455,2,664910,Carol Knox,Jacksonmouth,Maharashtra,EMI,Miller-Lopez
+45259,Honda,Hornet,259844,3,779532,Corey Lee,Ernestburgh,Tamil Nadu,Cash,"Phillips, Mueller and Hamilton"
+45574,Ducati,Monster,172686,1,172686,Phillip Case,Lopezside,Gujarat,Cash,Perry PLC
+45322,Royal Enfield,Classic 350,235343,1,235343,Bruce Anderson,Mackbury,Maharashtra,Debit Card,"Delgado, Davis and Molina"
+45477,Suzuki,Intruder,223285,3,669855,Angela Rivera,Morrisshire,Gujarat,Credit Card,Taylor Inc
+45264,Yamaha,FZ,182103,3,546309,Michelle Gomez,Lake Janice,Karnataka,Cash,"Campos, Brown and Watkins"
+45421,Ducati,Panigale,285601,2,571202,Heather Bartlett,New Ericfort,Karnataka,Debit Card,Duncan-Schmidt
+45682,Honda,Hornet,390101,1,390101,Marie Horne,Carpenterville,Gujarat,Debit Card,Freeman Ltd
+45662,Kawasaki,Z650,377795,3,1133385,Evan Campbell,Emilyburgh,Karnataka,Online,Clark LLC
+45170,Honda,Unicorn,166609,2,333218,Mrs. Linda Ramos,Nixonburgh,Gujarat,Online,"Baker, Brown and Eaton"
+45298,Honda,Unicorn,274830,2,549660,Gabrielle Villa,Scottport,Rajasthan,EMI,"Vaughn, Randolph and Nichols"
+45641,Yamaha,FZS,161142,1,161142,Jeffrey Mercer,New Jennifer,Maharashtra,Online,"Barron, Simmons and Lewis"
+45500,Yamaha,MT-15,142870,1,142870,Julian Webb,Peterside,Maharashtra,Credit Card,Griffith-Brown
+45626,Harley-Davidson,Forty-Eight,81670,1,81670,Leslie Tucker,Lake Frank,Maharashtra,Credit Card,Harrington LLC
+45701,Royal Enfield,Classic 350,406857,1,406857,James Martinez,Robinsonborough,Delhi,Credit Card,Wiggins-Gonzalez
+45094,Yamaha,MT-15,220836,2,441672,Michael Hancock,Port Denise,Tamil Nadu,Cash,Wilson-Rice
+45328,Royal Enfield,Bullet 350,314243,3,942729,Mark Gonzalez,Andrewshire,Rajasthan,Debit Card,"Freeman, Suarez and Morales"
+45761,Kawasaki,Versys,306424,2,612848,Alexis Daniel,West Monica,Rajasthan,Debit Card,Cline-Ball
+45447,Honda,CB Shine,224322,1,224322,Andrea Bryant,Johnville,Rajasthan,EMI,"Ellison, Preston and Oliver"
+45226,Suzuki,Gixxer,112969,1,112969,Carmen Gonzalez,Chavezton,Delhi,Debit Card,Riley Ltd
+45084,Honda,CB Shine,368787,2,737574,Erica Downs,Christophermouth,Tamil Nadu,Online,Williamson-Ballard
+45703,Ducati,Monster,430256,3,1290768,Jessica Saunders,Danielborough,Delhi,EMI,"Ortiz, Hall and Johnson"
+45744,Yamaha,FZS,440214,2,880428,Paul Brown,South Caseymouth,Maharashtra,EMI,Torres-Smith
+45212,Honda,CBR500R,256519,3,769557,Kathy Welch,Jenkinsstad,Delhi,Debit Card,"Arnold, Fisher and Moore"
+45081,Yamaha,FZ,303757,3,911271,Tonya Miller,New Kristafort,Tamil Nadu,Online,Frank-Anderson
+45444,Suzuki,Intruder,136028,1,136028,Isaac Brown,Norrisland,Rajasthan,Debit Card,Mcdowell Group
+45117,Harley-Davidson,Iron 883,342791,2,685582,Frederick Everett,Zacharybury,Maharashtra,Debit Card,Brown Group
+45638,Harley-Davidson,Iron 883,474076,2,948152,Mary Holland,Lake Morganshire,Gujarat,Credit Card,"Sparks, Martin and Stevens"
+45360,Harley-Davidson,Forty-Eight,298612,3,895836,Brian Berry,South Christopher,Gujarat,Debit Card,Cummings-Harris
+45750,Ducati,Scrambler,433035,1,433035,Steven Hammond,Cookbury,Gujarat,EMI,Matthews-Moyer
+45767,Yamaha,MT-15,412333,2,824666,Erica Wilkinson,West Crystaltown,Delhi,EMI,"Sanchez, Perry and Cochran"
+45053,Ducati,Panigale,252569,1,252569,Mrs. Crystal Vincent,Wilsonstad,Karnataka,EMI,"Smith, Hughes and Tyler"
+45414,Suzuki,Access 125,223531,1,223531,Karen English,Warrenchester,Tamil Nadu,Online,Flowers-Briggs
+45287,Harley-Davidson,Iron 883,381608,2,763216,Christopher Turner,North Michaelchester,Tamil Nadu,Credit Card,Dickson PLC
+45511,Kawasaki,Ninja 300,397369,2,794738,Craig Webb,Elizabethton,West Bengal,Online,Gilmore Group
+45280,Honda,CB Shine,384641,3,1153923,Elizabeth Stephens,Lake Sarahstad,Karnataka,EMI,Le-Johnson
+45620,Kawasaki,Z650,334973,3,1004919,Kristin Ellis,South Christopherchester,Gujarat,Credit Card,Brown-Lozano
+45485,Honda,CBR500R,296722,1,296722,Regina Khan MD,Port Joshuaborough,Maharashtra,Credit Card,Johnson Ltd
+45756,Harley-Davidson,Street 750,384896,3,1154688,Kevin Dixon,Justinburgh,Delhi,Debit Card,"Brown, Martinez and Murray"
+45396,Ducati,Scrambler,124492,3,373476,Misty Martinez,Earlstad,Gujarat,Online,Hansen-Morse
+45482,Suzuki,Gixxer,279744,3,839232,Samantha Hall,Hansenfurt,West Bengal,Debit Card,"Smith, Perez and Whitaker"
+45377,Harley-Davidson,Street 750,434557,2,869114,Suzanne Barker,New Coreyhaven,Rajasthan,Cash,Jefferson and Sons
+45692,Yamaha,MT-15,298380,2,596760,Robert Stone,East Alan,Maharashtra,Cash,Brown-Black
+45433,Ducati,Panigale,174726,3,524178,Daniel Mills,Harveyfurt,Maharashtra,Debit Card,Dickerson Inc
+45451,Yamaha,FZ,409215,3,1227645,Christopher Malone,East Rebeccaburgh,Delhi,Cash,"Graves, Duran and Green"
+45634,Royal Enfield,Bullet 350,458983,1,458983,Dillon Wright,South Stephenton,Maharashtra,EMI,"Velez, Solis and Matthews"
+45252,Kawasaki,Z650,257603,3,772809,Michael Lozano,South Ericmouth,Rajasthan,Debit Card,Mcdaniel-Barron
+45614,Yamaha,MT-15,153822,2,307644,Melvin Thornton,Jonesbury,Gujarat,Debit Card,Sanchez and Sons
+45389,Kawasaki,Versys,406670,3,1220010,Holly Chandler,Nicholebury,West Bengal,Credit Card,Farrell-Oconnor
+45704,Ducati,Panigale,464234,2,928468,Michael May,Tammyburgh,Delhi,Debit Card,Taylor-Miller
+45757,Kawasaki,Z650,414840,3,1244520,Joshua Jordan,Adamtown,West Bengal,Credit Card,"Sanchez, Parker and Rivera"
+45521,Kawasaki,Z650,308954,3,926862,Jeremiah Schroeder,West Christopherton,Rajasthan,Cash,Perry LLC
+45488,Honda,Hornet,318977,1,318977,Bailey Williams,New Michaelfort,Maharashtra,Debit Card,"Jones, Allen and Little"
+45340,Harley-Davidson,Street 750,331857,3,995571,Tamara Caldwell,Patrickview,West Bengal,Online,Collins and Sons
+45728,Harley-Davidson,Forty-Eight,279856,2,559712,Tiffany Doyle,Clarkview,Delhi,Online,Bailey-Kent
+45261,Yamaha,FZS,111339,1,111339,Christopher Ritter,Hillbury,Rajasthan,Debit Card,Gonzalez-Pierce
+45583,Yamaha,FZS,161297,3,483891,Ann Fry,New Ryan,Maharashtra,Cash,Thomas-Bell
+45538,Kawasaki,Versys,349725,3,1049175,Jamie Anderson,West Jessicaland,Gujarat,Online,Ford Group
+45276,Royal Enfield,Bullet 350,256022,3,768066,Benjamin Stewart,West Jasmine,Karnataka,Credit Card,"Hawkins, Thomas and Lawrence"
+45370,Ducati,Monster,201551,3,604653,Kelly Flores,Jacobton,Karnataka,Debit Card,"Hernandez, Beck and King"
+45280,Harley-Davidson,Forty-Eight,86716,2,173432,Edward Singh,North Sabrinafort,West Bengal,Cash,Williams and Sons
+45091,Kawasaki,Versys,234996,3,704988,Michael Villanueva,West Michael,Delhi,Debit Card,Wilson Group
+45101,Yamaha,FZS,264463,2,528926,Sandra Carpenter,Perezview,Karnataka,Online,Perry-Huff
+45302,Harley-Davidson,Street 750,426948,1,426948,Erik Hansen,Danielleshire,Maharashtra,Cash,Mason and Sons
+45249,Honda,Hornet,168183,2,336366,Anthony Garrison,North Kimfort,Tamil Nadu,Cash,"Rodriguez, Young and Wagner"
+45607,Ducati,Panigale,445283,2,890566,Peter Gonzalez,North Stephenbury,Tamil Nadu,Cash,"Martinez, Scott and Nelson"
+45456,Ducati,Scrambler,296778,2,593556,Aaron Green,Rojasburgh,Karnataka,EMI,Snyder Ltd
+45099,Suzuki,Gixxer,191584,1,191584,Jessica Oneal,Port Christopherside,Karnataka,Credit Card,Blanchard-Guerra
+45605,Suzuki,Gixxer,317091,3,951273,Michael Clark,Goldenmouth,Tamil Nadu,EMI,Williamson Inc
+45045,Honda,Hornet,113751,3,341253,Samantha Bentley,Port Garychester,Gujarat,Cash,Smith-Miller
+45071,Suzuki,Gixxer,203257,3,609771,Karen Jones,West James,West Bengal,Cash,Munoz-Taylor
+45689,Harley-Davidson,Street 750,111486,3,334458,Lisa Mitchell,South Brittanyfurt,Karnataka,Cash,"Rios, Thornton and Jackson"
+45335,Yamaha,FZ,132506,1,132506,Daniel Vazquez,New Monicaview,Rajasthan,Online,"Schneider, Estrada and Ewing"
+45297,Kawasaki,Z650,206775,2,413550,Cody Thompson,Lake Rickey,Rajasthan,Credit Card,"Johnson, Gibson and Riley"
+45133,Harley-Davidson,Iron 883,169156,2,338312,Cory Martinez,Lake Michaelchester,Tamil Nadu,Online,Sanchez Ltd
+45625,Ducati,Panigale,496766,2,993532,Catherine Miller,Salasland,Maharashtra,Credit Card,Simmons-Patterson
+45041,Kawasaki,Z650,354092,1,354092,James Weber,East Thomas,Maharashtra,EMI,"Rivera, Vaughan and Gray"
+45605,Royal Enfield,Himalayan,222652,2,445304,Christopher Morrow,Paulastad,Rajasthan,EMI,Long and Sons
+45319,Suzuki,Gixxer,430015,2,860030,Barbara Yu,Anthonyburgh,Maharashtra,Debit Card,"Robinson, Potter and Benjamin"
+45647,Suzuki,Access 125,443282,3,1329846,Adam King,Harveyview,Tamil Nadu,EMI,"Hoffman, Rogers and Randolph"
+45483,Kawasaki,Z650,336906,1,336906,Maria Ortiz,Thomasberg,Karnataka,Debit Card,Morris-Greer
+45256,Royal Enfield,Himalayan,363394,1,363394,Nicholas Rogers,Patriciaborough,Maharashtra,Online,"Harris, Burch and Sanders"
+45421,Yamaha,MT-15,314720,2,629440,David Crosby,Cannonmouth,West Bengal,Credit Card,Alvarez Ltd
+45646,Royal Enfield,Classic 350,100271,3,300813,Amanda Butler MD,Port Anthony,Tamil Nadu,Online,"Horn, Bernard and Martinez"
+45708,Ducati,Panigale,118728,3,356184,Hannah Green,Martineztown,Rajasthan,EMI,Mays-Alexander
+45476,Ducati,Scrambler,103008,1,103008,Kenneth Haney,North Deannamouth,Rajasthan,Cash,Gomez LLC
+45625,Suzuki,Gixxer,465715,1,465715,Carolyn Hansen,Mitchellshire,Rajasthan,Online,Turner-Jimenez
+45239,Harley-Davidson,Street 750,415150,3,1245450,Justin Esparza,Richardsonbury,Karnataka,EMI,"Burgess, Berry and Chase"
+45493,Honda,Unicorn,92482,1,92482,Amber Smith,Dawnberg,West Bengal,Debit Card,Garcia-Taylor
+45220,Honda,Unicorn,300333,3,900999,Joyce Harris,West Andre,Gujarat,Cash,Romero-Lee
+45726,Ducati,Panigale,273107,1,273107,Jessica Jones,North Shaunmouth,Delhi,Debit Card,Martinez-Raymond
+45452,Ducati,Scrambler,427999,1,427999,Patricia Oconnor,Youngport,West Bengal,EMI,Dorsey Ltd
+45563,Kawasaki,Z650,287614,3,862842,Joseph Dixon,East Sarah,Karnataka,Credit Card,Davis-Wheeler
+45567,Ducati,Monster,378950,2,757900,Brandon Doyle,South Wanda,Tamil Nadu,Debit Card,Foley Group
+45461,Ducati,Panigale,94636,3,283908,Gregory Gilmore,Garzamouth,West Bengal,Debit Card,Schneider Inc
+45237,Royal Enfield,Classic 350,263927,2,527854,Nicholas Black,East Michael,Karnataka,Online,"Kim, Gutierrez and Edwards"
+45253,Yamaha,FZS,84902,2,169804,Joshua Hamilton,West Lisamouth,Delhi,EMI,Martinez-Rodriguez
+45222,Harley-Davidson,Street 750,332711,2,665422,Elizabeth Ruiz,South Erinland,Rajasthan,Cash,Bates-Chavez
+45253,Ducati,Panigale,170629,3,511887,Julie Martinez,West Brandonburgh,West Bengal,EMI,"Robertson, Brennan and Conrad"
+45293,Harley-Davidson,Street 750,358671,1,358671,David Martinez,East Amy,Karnataka,Online,Cohen-Adams
+45205,Suzuki,Access 125,410901,1,410901,Alyssa Moore,Ericshire,West Bengal,Cash,"Ellis, Hernandez and Braun"
+45575,Royal Enfield,Bullet 350,407804,1,407804,Tracy Smith,East William,West Bengal,Debit Card,Simmons Ltd
+45154,Royal Enfield,Himalayan,81072,3,243216,Michael Smith,Victoriaburgh,Tamil Nadu,Debit Card,Morris Group
+45154,Kawasaki,Z650,80245,2,160490,Emily Butler,North Bradleyhaven,Tamil Nadu,Cash,Anderson Ltd
+45353,Ducati,Scrambler,134698,3,404094,Michael Russo,Montoyaview,Tamil Nadu,EMI,Herring Ltd
+45055,Yamaha,FZS,380721,1,380721,Alison Grimes,Carolynchester,Tamil Nadu,Debit Card,Watson-Clark
+45731,Harley-Davidson,Forty-Eight,374141,1,374141,Michael Arnold,Williamsport,Tamil Nadu,Debit Card,Moore-Brown
+45319,Harley-Davidson,Forty-Eight,410600,2,821200,Wayne Jordan,Kiddstad,West Bengal,Credit Card,"Gonzales, Stark and Fry"
+45574,Ducati,Monster,171415,1,171415,Sharon Diaz,Mariaview,Delhi,Online,"Rowe, Freeman and Murphy"
+45185,Royal Enfield,Himalayan,374909,1,374909,Marvin Mccullough,Christineville,Delhi,EMI,Kirby and Sons
+45304,Ducati,Panigale,343765,1,343765,Robert Hubbard,New Lisachester,Rajasthan,Debit Card,"Zamora, Anderson and Marshall"
+45072,Harley-Davidson,Street 750,318193,1,318193,David Higgins,Keithmouth,Delhi,Debit Card,Walker PLC
+45752,Royal Enfield,Classic 350,297618,3,892854,Larry Ford,Port Nancyfurt,Delhi,Debit Card,"Hanson, Huerta and Taylor"
+45112,Harley-Davidson,Street 750,460981,2,921962,Connie Kelley,Andersonland,Karnataka,Credit Card,Caldwell and Sons
+45302,Royal Enfield,Bullet 350,309901,1,309901,Meghan Melendez,East Maxwell,Gujarat,Online,Hardin Inc
+45059,Ducati,Scrambler,356278,1,356278,Sabrina Holt,North Katherinehaven,Rajasthan,Debit Card,"Thompson, Parks and Brown"
+45165,Yamaha,MT-15,319656,3,958968,Zachary Holmes,Danielmouth,Rajasthan,Credit Card,Simpson-Juarez
+45376,Royal Enfield,Bullet 350,476884,1,476884,Stacey Hogan,West Ashley,West Bengal,Debit Card,Cook-Cunningham
+45496,Ducati,Monster,400057,3,1200171,Jeffery Hendricks,Wrightport,Delhi,Credit Card,Delgado Ltd
+45516,Harley-Davidson,Street 750,227032,3,681096,Barbara Jordan,East Jillian,Rajasthan,Debit Card,Bennett-Powell
+45144,Honda,Unicorn,158305,1,158305,Jillian Stewart,South Lisaview,Maharashtra,Credit Card,Barber-Richardson
+45488,Kawasaki,Versys,91141,2,182282,Jake Perez,Moniquemouth,West Bengal,EMI,Hernandez-Lambert
+45250,Suzuki,Intruder,237469,2,474938,Troy Campos,Murphyport,Karnataka,Online,Garcia-Christensen
+45151,Suzuki,Intruder,402337,2,804674,Sierra Hughes,Diazmouth,Tamil Nadu,Online,Humphrey and Sons
+45106,Kawasaki,Ninja 300,425331,2,850662,Brian Moss,Smithville,Delhi,Online,Ward Ltd
+45366,Ducati,Monster,497789,1,497789,Mrs. Rachael Henry,Darrellton,West Bengal,Cash,Bell Group
+45138,Yamaha,FZ,411424,3,1234272,Kenneth Andrews,Donnaberg,West Bengal,Credit Card,"Mckenzie, Gomez and Dillon"
+45111,Royal Enfield,Bullet 350,104389,1,104389,Phillip Collins,Dayville,Tamil Nadu,Online,Chen-Morrison
+45652,Honda,CB Shine,436834,1,436834,Amanda Schultz,New Catherine,West Bengal,Credit Card,"Gamble, Russo and Williams"
+45300,Royal Enfield,Classic 350,477381,1,477381,Christine Williams,West Victoriaview,Rajasthan,EMI,Stewart and Sons
+45691,Honda,CB Shine,497398,3,1492194,Natalie Smith,Duncanport,Rajasthan,Credit Card,Jacobson-Baker
+45081,Honda,Hornet,487077,3,1461231,Lori Clark,Sarahchester,Tamil Nadu,Online,"Hernandez, Dennis and Jones"
+45260,Yamaha,R15,238208,3,714624,Christopher Williams,Douglasburgh,Rajasthan,Debit Card,Hutchinson PLC
+45239,Suzuki,Intruder,244634,3,733902,Brian Matthews,Heatherland,Gujarat,Credit Card,"Robbins, Hansen and Blanchard"
+45503,Kawasaki,Versys,384169,3,1152507,Laura Osborn,West Karen,West Bengal,Debit Card,Mccarthy PLC
+45299,Honda,Hornet,338647,3,1015941,Amanda Jenkins,North Deborah,Maharashtra,Debit Card,"Hernandez, Avery and Johnson"
+45461,Honda,Unicorn,202420,1,202420,Mark Rodriguez,New Tylerton,Maharashtra,EMI,Wilson and Sons
+45629,Harley-Davidson,Street 750,369965,2,739930,Keith Thomas,New Roberto,Tamil Nadu,EMI,Dyer PLC
+45464,Yamaha,FZS,360577,1,360577,Douglas Barnett Jr.,Christieshire,Karnataka,EMI,"Morgan, Bell and Swanson"
+45055,Ducati,Scrambler,229833,1,229833,Christopher Diaz,Fraziermouth,Rajasthan,Online,"Taylor, Larsen and Davis"
+45612,Suzuki,Access 125,422002,3,1266006,Crystal Garcia,Rodriguezview,Rajasthan,Online,Frazier LLC
+45373,Harley-Davidson,Forty-Eight,99720,1,99720,Amy Gomez,Pittmanfurt,Rajasthan,EMI,Robinson and Sons
+45071,Ducati,Scrambler,186982,1,186982,Amy Mann,South Thomasshire,Tamil Nadu,Online,"Ramirez, Nelson and Baker"
+45201,Yamaha,MT-15,222716,2,445432,Jacob Simon,Glennhaven,Rajasthan,Credit Card,Hendricks-Johnson
+45742,Royal Enfield,Himalayan,326505,1,326505,Mary Frederick,Alexandriashire,Tamil Nadu,Cash,Holmes-Hayes
+45487,Ducati,Scrambler,320807,3,962421,Cassandra Freeman,Cherylbury,Gujarat,Credit Card,"Rodgers, Bernard and Davis"
+45476,Kawasaki,Z650,134513,2,269026,James Oneill,Hopkinsville,West Bengal,Credit Card,"Estrada, Russell and Brown"
+45741,Honda,Unicorn,306307,3,918921,Elizabeth Singh,Derrickport,Karnataka,Debit Card,"Young, Murphy and Hodges"
+45449,Ducati,Monster,310198,3,930594,Melissa Johnson,New Peterside,Delhi,Debit Card,"Mathis, Cochran and Wiley"
+45408,Royal Enfield,Classic 350,249477,3,748431,Timothy Lowe,Popebury,Delhi,Cash,"Hart, Marsh and Haney"
+45717,Ducati,Monster,464508,2,929016,Walter Hubbard,Allenland,West Bengal,Cash,Cohen and Sons
+45235,Kawasaki,Z650,363575,3,1090725,Dr. Kara Sanders,Juantown,Delhi,Debit Card,Day LLC
+45278,Suzuki,Gixxer,375454,1,375454,Marcus Ramos,South Danielle,West Bengal,Credit Card,Cruz-Perez
+45408,Royal Enfield,Himalayan,136861,3,410583,Courtney Camacho,Joannfort,West Bengal,Online,Clark LLC
+45287,Suzuki,Access 125,312154,1,312154,Emily Curry,Port Carlos,Rajasthan,Debit Card,Jacobs Inc
+45394,Royal Enfield,Bullet 350,400750,2,801500,Andrew Randolph MD,North Timothyton,Gujarat,EMI,Moore-Moss
+45628,Harley-Davidson,Street 750,437710,3,1313130,Melissa Wood,West Meganmouth,West Bengal,Cash,"Hughes, Andrews and Brown"
+45504,Kawasaki,Versys,182980,2,365960,Norman Murillo,Paulchester,Rajasthan,Cash,Reyes-Perez
+45281,Suzuki,Intruder,179718,2,359436,Travis Perez,Jamesfort,Delhi,EMI,Jenkins PLC
+45380,Harley-Davidson,Iron 883,349183,2,698366,Virginia Patel,Moralesside,Rajasthan,Debit Card,Pierce-Randall
+45231,Harley-Davidson,Iron 883,274649,1,274649,Jeffrey Kim,East Johnview,Tamil Nadu,Credit Card,Kennedy-Dennis
+45680,Kawasaki,Z650,198301,2,396602,Kathleen Guerrero,Lake Stephanie,Karnataka,Cash,Kelley Inc
+45575,Ducati,Monster,311345,1,311345,Eric Gomez,North Jennifer,Tamil Nadu,EMI,Harmon and Sons
+45682,Honda,Hornet,168394,2,336788,Jordan Holmes,Hernandezfurt,Rajasthan,Cash,"Baker, Adams and Miller"
+45255,Harley-Davidson,Street 750,383938,3,1151814,Jose Harris,Caseytown,Gujarat,Online,"Thomas, Melendez and Larson"
+45472,Kawasaki,Ninja 300,104880,1,104880,Tina Lynch,Shaneport,Rajasthan,Debit Card,Pham and Sons
+45043,Royal Enfield,Bullet 350,482027,3,1446081,Mr. Seth Holmes PhD,Adrianfurt,Tamil Nadu,Debit Card,West-Stokes
+45664,Yamaha,FZ,359963,3,1079889,Olivia Alexander,Lake Kathleenfurt,Rajasthan,Cash,Hughes LLC
+45291,Yamaha,FZ,311095,1,311095,Jennifer Erickson,South James,Rajasthan,Credit Card,Tucker-Moore
+45383,Royal Enfield,Himalayan,367864,3,1103592,Anthony Fernandez,New Aaron,West Bengal,Debit Card,"Hernandez, Miller and Waters"
+45656,Yamaha,FZS,137897,1,137897,Kathleen Gillespie,Robertsbury,Maharashtra,EMI,"Miller, Smith and Miller"
+45720,Honda,CB Shine,163620,2,327240,Jennifer Hansen,Travisborough,Maharashtra,Credit Card,Berry-Doyle
+45730,Kawasaki,Versys,453975,1,453975,Jessica Jenkins,Smithbury,West Bengal,Debit Card,Mercado Ltd
+45353,Kawasaki,Versys,440062,2,880124,Jimmy House,Longmouth,Delhi,Online,Jimenez Inc
+45161,Honda,CBR500R,345143,3,1035429,Christopher Griffin,Port Sharon,Tamil Nadu,Credit Card,"Shields, Robinson and Rivera"
+45686,Honda,Unicorn,155703,3,467109,Caroline Sandoval,Coopershire,Gujarat,EMI,Murphy Ltd
+45589,Yamaha,FZ,426366,1,426366,Angela Jones,North Larrytown,Gujarat,Credit Card,"Newman, Franklin and Brewer"
+45126,Royal Enfield,Bullet 350,201124,3,603372,Donald Johnson,Lake Gary,Rajasthan,Debit Card,Burton Group
+45166,Yamaha,R15,437898,3,1313694,Robert Henry,Lake Virginiachester,Tamil Nadu,Online,"Griffith, Johnston and Fox"
+45114,Kawasaki,Z650,377374,2,754748,Derrick Williams,South Danielle,Maharashtra,Cash,"Ritter, Grant and Patterson"
+45414,Royal Enfield,Bullet 350,236489,2,472978,Cheryl Schroeder,Josemouth,Gujarat,Online,Mckay and Sons
+45410,Ducati,Monster,235910,1,235910,Monica Gutierrez,Sanchezmouth,Maharashtra,Cash,King Ltd
+45580,Suzuki,Access 125,451811,2,903622,Johnny Kennedy,Torresburgh,West Bengal,Debit Card,"Duncan, Ryan and Hamilton"
+45398,Royal Enfield,Classic 350,281209,1,281209,Alice Harris MD,Port Marktown,Maharashtra,Credit Card,Harper-Cortez
+45444,Suzuki,Gixxer,409691,3,1229073,Nicholas Robles,Tinamouth,Delhi,Debit Card,Parks LLC
+45225,Yamaha,FZ,233820,1,233820,Kenneth Escobar,West Stevenburgh,Karnataka,Online,Schultz LLC
+45456,Suzuki,Gixxer,440737,2,881474,Jacob Torres,Philipmouth,Rajasthan,Credit Card,Doyle Group
+45663,Suzuki,Access 125,138556,1,138556,Barbara Burke,West Austin,Tamil Nadu,Cash,Guerra-Hamilton
+45667,Kawasaki,Ninja 300,351363,3,1054089,Christopher Gross,South Shannontown,Karnataka,EMI,"Lopez, Obrien and Zimmerman"
+45309,Ducati,Scrambler,209458,1,209458,Donald Nichols,Port Ashleemouth,Maharashtra,Debit Card,Hall-Murphy
+45143,Royal Enfield,Bullet 350,260153,1,260153,Susan Cunningham,Sandovalborough,Delhi,Credit Card,"Tanner, Armstrong and Briggs"
+45476,Royal Enfield,Classic 350,161673,3,485019,Joshua Hayes,Watsontown,Karnataka,Debit Card,Bullock-Obrien
+45522,Honda,CB Shine,223988,3,671964,Alan Rivera,Sarahmouth,Rajasthan,Cash,Hale PLC
+45051,Royal Enfield,Himalayan,91568,2,183136,Richard Wong,Katherinebury,Delhi,EMI,Barber Group
+45539,Kawasaki,Z650,440299,2,880598,Scott Mathis,Welchmouth,Delhi,Credit Card,Johnson Group
+45084,Harley-Davidson,Street 750,483406,2,966812,Michael Rose,New Kevin,Delhi,Online,"Tran, Lynn and Garcia"
+45286,Suzuki,Gixxer,289966,3,869898,Steven Thomas,Port Larry,West Bengal,Cash,Ball Group
+45445,Honda,Hornet,96393,3,289179,Emily Peterson,Smithberg,Maharashtra,Cash,"Sullivan, Taylor and Lambert"
+45689,Harley-Davidson,Forty-Eight,161263,3,483789,Mrs. Lisa Goodman MD,Oliverbury,West Bengal,Online,"Brewer, Fisher and Silva"
+45220,Royal Enfield,Classic 350,249755,2,499510,Gabriel Hicks,Ayalaton,Tamil Nadu,Credit Card,Gibson and Sons
+45422,Yamaha,FZ,151587,3,454761,Bill Brewer,Millerside,Gujarat,Cash,"Lewis, White and Spears"
+45138,Kawasaki,Ninja 300,299576,3,898728,Monique Mullen,New Donald,Gujarat,Online,Phillips LLC
+45139,Suzuki,Gixxer,425744,3,1277232,Jessica Nunez,North Shawn,West Bengal,Credit Card,Mcfarland-Hendricks
+45092,Yamaha,MT-15,370687,1,370687,Aaron Ramsey,Grayport,Tamil Nadu,Debit Card,Gonzalez PLC
+45664,Royal Enfield,Himalayan,407733,2,815466,Brooke Hernandez,Garciafurt,Delhi,EMI,Goodwin-Keller
+45094,Ducati,Panigale,436599,3,1309797,Jeffery Solis,Jacobbury,Maharashtra,Cash,Smith-Watkins
+45181,Honda,CBR500R,401823,1,401823,Hannah Riley,West Sandraland,Delhi,Credit Card,Terrell-Brown
+45280,Harley-Davidson,Iron 883,277080,2,554160,Donna Rodriguez,North Brian,Delhi,Online,"Jones, Pearson and White"
+45330,Harley-Davidson,Street 750,266514,1,266514,Catherine Dalton,Jenningsstad,Maharashtra,Online,"Baker, Lin and Payne"
+45555,Ducati,Monster,233772,3,701316,Steve Stone,South Christophertown,Karnataka,Cash,Burgess-Bishop
+45255,Royal Enfield,Himalayan,482725,2,965450,Mary Morris,Nicholasside,Delhi,Online,"Johnson, Barrera and Anderson"
+45461,Yamaha,R15,162954,1,162954,Beth Pineda,Jimenezport,Gujarat,Credit Card,"Hawkins, Perez and Davis"
+45260,Harley-Davidson,Street 750,474792,1,474792,Judith Anderson,New Pattychester,Rajasthan,Credit Card,"Andrews, Watkins and Thomas"
+45299,Honda,CB Shine,485196,3,1455588,David Parker,Reidborough,Maharashtra,EMI,Hanna-Clark
+45634,Royal Enfield,Himalayan,156058,1,156058,Larry Chen DDS,Meganmouth,Karnataka,Credit Card,"Garcia, Hurst and Scott"
+45298,Honda,Unicorn,326060,1,326060,Julia Ramos,Solisfurt,Rajasthan,Debit Card,Harper Group
+45106,Kawasaki,Versys,421633,3,1264899,Jessica Hensley MD,Port Alexandria,Karnataka,Credit Card,Berg PLC
+45581,Royal Enfield,Classic 350,292817,3,878451,Caroline Thomas,West Catherineview,Maharashtra,Debit Card,Perry Group
+45119,Suzuki,Access 125,421011,1,421011,Kara Olsen,Port Jenny,West Bengal,EMI,Robertson-Bowen
+45217,Harley-Davidson,Iron 883,132152,1,132152,Kristopher Flowers,Saraland,Tamil Nadu,Cash,"Carter, Mcdaniel and Rose"
+45419,Kawasaki,Versys,496352,3,1489056,Tiffany Gregory,Port Ryan,Maharashtra,Online,Santos LLC
+45231,Honda,CBR500R,310998,3,932994,Taylor Dominguez,Smithhaven,Rajasthan,Online,Wilson-Wells
+45611,Ducati,Panigale,96773,1,96773,Brianna Haney,Thomasshire,Gujarat,Online,"Rivas, Perez and Mclean"
+45565,Royal Enfield,Bullet 350,184196,3,552588,Jennifer Brown,Andrewmouth,Delhi,EMI,"Acevedo, Johnson and Brown"
+45062,Kawasaki,Ninja 300,91785,3,275355,Richard Wright,Mcfarlandport,Karnataka,EMI,"Weaver, Moreno and Carr"
+45759,Yamaha,R15,392231,3,1176693,Michelle Johnson,West Jessica,Gujarat,Cash,Blanchard-Ruiz
+45127,Royal Enfield,Himalayan,342888,2,685776,Rachel Valencia,Acostaport,Karnataka,Cash,Cervantes-Jones
+45566,Honda,CB Shine,179930,1,179930,Edward Brown,Eduardoport,West Bengal,Online,"Pope, Dominguez and Weaver"
+45423,Suzuki,Intruder,359117,3,1077351,Jessica Stone,East Jessicaton,West Bengal,Online,Brown Inc
+45289,Royal Enfield,Classic 350,158216,2,316432,Dr. Brian Brown,Paulaborough,Delhi,Cash,Rogers LLC
+45480,Harley-Davidson,Forty-Eight,440214,1,440214,Cody Mcdonald,New Rachel,Gujarat,EMI,Mccann Group
+45155,Harley-Davidson,Iron 883,340533,2,681066,Richard Moore,Susanport,Delhi,EMI,Hunter Inc
+45058,Royal Enfield,Bullet 350,323310,2,646620,Mrs. Natalie Page,North Michelleland,Tamil Nadu,Online,"Flores, Dominguez and Walker"
+45695,Suzuki,Intruder,280807,2,561614,Norma Burton,East Xavier,Karnataka,Cash,Davila-Campbell
+45483,Royal Enfield,Himalayan,206240,3,618720,Andrew Campbell,Abigailmouth,Rajasthan,Cash,"Parker, Pratt and Johnston"
+45478,Kawasaki,Versys,259173,1,259173,Anthony Garcia,Fullertown,Maharashtra,Cash,"Byrd, Mckee and Davis"
+45618,Suzuki,Intruder,426123,2,852246,Michael Hodges,Randallborough,Maharashtra,Cash,Townsend-Rodriguez
+45404,Royal Enfield,Himalayan,136238,2,272476,Cory Garcia,Randyton,Gujarat,Cash,Cannon-Wilson
+45759,Yamaha,R15,472341,2,944682,Christine Beck,Lake Alexandra,Maharashtra,EMI,"Ray, Mayer and Simon"
+45756,Yamaha,FZ,258342,2,516684,Sarah Smith,West Lisa,Rajasthan,EMI,Mooney Ltd
+45398,Yamaha,R15,488615,1,488615,Sarah Hobbs,Carolynfurt,Tamil Nadu,EMI,Rodriguez-Fox
+45057,Yamaha,MT-15,273806,1,273806,Andrew Wright Jr.,East Kristen,Rajasthan,Cash,Vazquez Group
+45726,Royal Enfield,Himalayan,394489,3,1183467,Gina Shepherd,West Morgan,West Bengal,Cash,"Jones, Carter and Anderson"
+45331,Suzuki,Gixxer,282119,2,564238,Heather Lambert,Joshuaton,West Bengal,Credit Card,"Morton, James and Knight"
+45282,Harley-Davidson,Forty-Eight,149920,1,149920,Michelle Trevino,Port Lisa,Gujarat,Online,Casey PLC
+45628,Royal Enfield,Himalayan,291006,1,291006,Erica Hampton,Camerontown,Gujarat,Online,"Barrera, Schmidt and Graham"
+45130,Suzuki,Access 125,210048,3,630144,Melissa Jackson,Lisaville,Delhi,Debit Card,"Juarez, Moss and Friedman"
+45179,Ducati,Panigale,376954,2,753908,Richard Johnson,Lake Davidtown,Tamil Nadu,Debit Card,Hale Ltd
+45641,Ducati,Monster,160730,3,482190,Janet Brown,Powelltown,Delhi,Credit Card,"Fischer, Glass and Maldonado"
+45086,Royal Enfield,Classic 350,360863,3,1082589,Phillip Barr,Lake Ashley,Gujarat,Cash,Cobb and Sons
+45434,Suzuki,Gixxer,373282,3,1119846,Allison Arellano,Port Jennyport,Gujarat,EMI,Sloan-Jackson
+45545,Suzuki,Gixxer,381587,1,381587,David Chan,Jessicamouth,Delhi,Cash,Adkins Group
+45232,Honda,Hornet,396765,1,396765,Roger Frazier,New Dustin,West Bengal,Cash,"Ward, Young and Long"
+45705,Ducati,Monster,170514,1,170514,Kevin Evans,Danielfurt,Maharashtra,EMI,"Cortez, Ross and Curtis"
+45302,Honda,CBR500R,249881,2,499762,Victor Thompson,Alecstad,Tamil Nadu,Debit Card,"Mendoza, Horn and Shea"
+45275,Suzuki,Access 125,205297,2,410594,Beverly Gregory,North Thomas,Rajasthan,Debit Card,Payne Inc
+45396,Kawasaki,Z650,378568,1,378568,Angela Roberts,Flynnfurt,Delhi,EMI,Lee Inc
+45673,Suzuki,Gixxer,103436,1,103436,John Lang,Stanleyport,Karnataka,Cash,Gray-Shea
+45186,Suzuki,Gixxer,128443,2,256886,Richard Wilson,South Nicole,Gujarat,Cash,"Johnson, Henderson and Matthews"
+45658,Kawasaki,Ninja 300,190739,1,190739,Mrs. Sara Edwards DDS,East Brandichester,Maharashtra,Cash,Carr PLC
+45689,Ducati,Scrambler,305293,3,915879,Kathryn Reilly,Sonyafort,Rajasthan,Cash,Jones-Anderson
+45665,Royal Enfield,Himalayan,246988,2,493976,Wendy Baxter,Lake Thomasberg,Karnataka,Online,"Shah, Wagner and Huynh"
+45629,Honda,Unicorn,158445,2,316890,Lisa Curtis,Port Patricia,Delhi,EMI,Hartman-Robertson
+45712,Yamaha,FZ,446086,3,1338258,Lauren Montes,Kaylaside,West Bengal,Debit Card,Garcia-Robinson
+45296,Ducati,Monster,343113,3,1029339,Sharon Maldonado,South James,West Bengal,Cash,"Anderson, Garcia and Potter"
+45426,Yamaha,FZS,382828,3,1148484,Christopher Lang,South Virginiabury,Rajasthan,Debit Card,Fernandez-Bell
+45133,Yamaha,FZ,113768,3,341304,Cynthia Johnson,Stephenberg,Delhi,Cash,Kennedy-Morales
+45479,Kawasaki,Ninja 300,156877,1,156877,Aaron Serrano,North Abigailfort,Maharashtra,EMI,"Chavez, Fitzgerald and Duke"
+45304,Ducati,Panigale,451127,2,902254,Maria Jackson,Tinatown,Rajasthan,Credit Card,"Andrade, Marshall and Lee"
+45662,Yamaha,MT-15,478595,1,478595,Michael Lin,Kennethbury,Rajasthan,Cash,Smith Ltd
+45137,Suzuki,Access 125,325625,1,325625,Steven Green,Holdermouth,Delhi,EMI,"Burke, Potter and Moore"
+45555,Yamaha,FZ,225760,2,451520,Michael Arnold,North Nicoleville,Rajasthan,EMI,Burch PLC
+45719,Royal Enfield,Classic 350,225925,2,451850,Peter Gonzales,New Drew,Rajasthan,Online,Rivas-Davis
+45645,Ducati,Panigale,309459,3,928377,Christina Johnson,North Christine,Tamil Nadu,Cash,Navarro and Sons
+45601,Suzuki,Gixxer,138894,2,277788,Heather George,Boltonstad,Maharashtra,Cash,Robinson-Mack
+45645,Suzuki,Intruder,153882,1,153882,Chad Wheeler,New Maryhaven,Rajasthan,Debit Card,Smith LLC
+45174,Ducati,Panigale,157075,1,157075,Laura Russell,Englishchester,Rajasthan,Cash,"Ware, Levy and Chen"
+45628,Harley-Davidson,Forty-Eight,207584,3,622752,Kathleen Ross,Port Patricia,Delhi,Online,Johnston-Perry
+45209,Yamaha,R15,412497,1,412497,Michael Freeman,Port Yvonne,West Bengal,EMI,Mcgrath-Walker
+45341,Suzuki,Gixxer,146581,1,146581,Amber Thomas,Kellyville,Maharashtra,EMI,"Obrien, Guerra and Bell"
+45529,Harley-Davidson,Forty-Eight,349241,2,698482,Sarah Hernandez,South Kyle,Karnataka,Debit Card,"Smith, Moore and Parker"
+45664,Kawasaki,Z650,468044,3,1404132,Kimberly Vincent,Johnsonstad,Maharashtra,Online,"Davis, Evans and Franklin"
+45139,Suzuki,Gixxer,298019,2,596038,Paul Vargas,Davistown,Karnataka,Cash,"Lindsey, Sharp and Rogers"
+45163,Suzuki,Intruder,233127,1,233127,Bonnie Phillips,West Patrickport,Maharashtra,Credit Card,Alexander and Sons
+45125,Yamaha,FZS,98823,2,197646,Brenda Carson,Richardfort,Maharashtra,Cash,Edwards LLC
+45287,Yamaha,R15,101110,2,202220,Lisa Sullivan,North Donna,Karnataka,Debit Card,Davis Ltd
+45568,Suzuki,Access 125,107455,2,214910,Melinda Moses,Laraville,Tamil Nadu,EMI,"Olson, Kim and Keller"
+45407,Kawasaki,Ninja 300,120789,2,241578,Tara Winters,Port Williambury,Karnataka,Debit Card,"Medina, Stone and Powell"
+45581,Royal Enfield,Himalayan,334882,3,1004646,Mary Estes,Mistybury,Maharashtra,Cash,Taylor-Jimenez
+45241,Honda,Hornet,188090,3,564270,Adam Fox,Jefffurt,Tamil Nadu,Credit Card,Wood PLC
+45314,Yamaha,MT-15,274904,3,824712,Joshua Harris,West Melissaberg,Gujarat,Cash,Miller-Clark
+45151,Royal Enfield,Himalayan,194334,1,194334,Brendan Hicks,Lake Trevorbury,West Bengal,EMI,Rice-Howard
+45184,Ducati,Panigale,261274,3,783822,Nicole Daniel,West Nicolestad,Maharashtra,Credit Card,"Munoz, Hull and Hill"
+45186,Harley-Davidson,Street 750,205597,2,411194,Daniel Stewart,New Lisa,Delhi,Online,"Rodriguez, Montes and King"
+45506,Suzuki,Intruder,479939,2,959878,Ryan Conrad,West Yvettetown,West Bengal,Credit Card,Brown Ltd
+45085,Yamaha,R15,341937,3,1025811,Thomas West,New Kimberly,Rajasthan,Cash,Humphrey-Hernandez
+45060,Suzuki,Gixxer,385141,1,385141,Samuel Johnson,New Tina,Karnataka,EMI,Green-Turner
+45340,Kawasaki,Ninja 300,224874,2,449748,Daniel Foster,New Christopherville,Tamil Nadu,Cash,Rodriguez-Valdez
+45312,Royal Enfield,Bullet 350,121802,3,365406,Adrian Wells,South Cassandraland,Rajasthan,Cash,Long-Clements
+45767,Kawasaki,Z650,459912,1,459912,Shannon Taylor,East Kevinstad,Rajasthan,Debit Card,Cook Inc
+45262,Yamaha,R15,210133,1,210133,Lauren Clark,West Matthew,Tamil Nadu,Credit Card,Williamson-Pacheco
+45246,Suzuki,Access 125,89341,3,268023,Christian Buchanan DVM,Garciahaven,Maharashtra,Debit Card,Mejia-Edwards
+45414,Harley-Davidson,Street 750,464220,3,1392660,Terry Harrington,Port Nicholas,Maharashtra,Debit Card,"Obrien, Love and Bell"
+45537,Honda,CBR500R,110346,1,110346,Bethany Bradley,Anthonyfurt,Tamil Nadu,Online,Santos-Alexander
+45717,Harley-Davidson,Street 750,155475,3,466425,Michael Munoz,Kendratown,Karnataka,Debit Card,Estes Group
+45598,Kawasaki,Z650,288839,2,577678,Karen Pope,Sarahview,Gujarat,EMI,"Martin, Goodman and Cochran"
+45042,Ducati,Scrambler,312582,3,937746,Vanessa Fisher,Blairmouth,Delhi,Online,Garcia-Vang
+45524,Honda,CBR500R,419558,3,1258674,Steven Young,Saundersville,Tamil Nadu,Online,Gallegos-Mendoza
+45103,Royal Enfield,Bullet 350,126093,3,378279,John Baker,South Deniseland,Tamil Nadu,Online,Wade-Pearson
+45264,Yamaha,MT-15,351720,2,703440,Alicia Harris,West Walter,Karnataka,EMI,Osborne-Fleming
+45504,Royal Enfield,Himalayan,457180,2,914360,Eric Jackson,Lake Michael,Gujarat,EMI,Ryan-Collins
+45272,Royal Enfield,Classic 350,261634,2,523268,Nicole Lutz,Churchton,Maharashtra,Cash,Scott-Gonzalez
+45376,Ducati,Scrambler,190600,1,190600,Nicole Richardson,Lawrenceborough,Rajasthan,Cash,Johnson-Lee
+45104,Honda,Hornet,218235,2,436470,Richard Novak,Jeffhaven,Maharashtra,Debit Card,"Edwards, Henry and Jordan"
+45254,Suzuki,Access 125,126225,2,252450,Christopher Cardenas,Lake Elizabeth,Tamil Nadu,Cash,Alvarado-Hess
+45153,Honda,Unicorn,179304,1,179304,Robert Lopez,Petersonburgh,Karnataka,Online,Davila LLC
+45487,Kawasaki,Ninja 300,167695,3,503085,Luis Baldwin,East Kelly,Maharashtra,Online,Williams PLC
+45402,Kawasaki,Z650,470095,1,470095,Harold Wilson,Reginafort,West Bengal,EMI,"English, Dunn and Mendoza"
+45361,Suzuki,Gixxer,99653,2,199306,Julie Arnold,Reynoldsshire,Delhi,Cash,"Alexander, Allen and Lewis"
+45765,Kawasaki,Z650,145752,1,145752,Julia Lewis,Watsonfort,Karnataka,Credit Card,"Murray, Daugherty and Stevens"
+45527,Royal Enfield,Classic 350,210888,1,210888,Wesley Johnson,Harveyfort,Karnataka,Cash,"Yu, Myers and Martin"
+45522,Suzuki,Intruder,226758,2,453516,Christina Williams,South Brandy,Tamil Nadu,Credit Card,"Edwards, Edwards and Lopez"
+45747,Harley-Davidson,Street 750,83312,1,83312,Wayne Smith,New Stephen,West Bengal,Online,"Taylor, Underwood and Schmidt"
+45623,Yamaha,MT-15,487026,3,1461078,Cory Lucas,South Jessicaton,Karnataka,Debit Card,"Herrera, Green and Clark"
+45582,Suzuki,Access 125,142023,1,142023,William West,East Stephaniemouth,Gujarat,Credit Card,Cook-Torres
+45308,Yamaha,R15,240056,3,720168,Michael Love,Kylemouth,Maharashtra,Online,"Dean, Liu and Davis"
+45438,Royal Enfield,Classic 350,416630,3,1249890,Erin Lee,Lewisbury,Tamil Nadu,Online,Carter-Miller
+45541,Honda,Unicorn,160616,1,160616,Scott Contreras,Lake Patrick,West Bengal,Online,Brooks-Brown
+45750,Suzuki,Intruder,335868,2,671736,Andrew Barnett,Robinsonside,Delhi,Credit Card,"Dominguez, Howard and Moore"
+45377,Kawasaki,Ninja 300,396479,1,396479,Jose Blevins,West Barbara,Tamil Nadu,Cash,Mata PLC
+45303,Harley-Davidson,Iron 883,81758,2,163516,Makayla Barnes,South Sarahfort,Tamil Nadu,Debit Card,Johnston and Sons
+45678,Yamaha,R15,324810,3,974430,Alec White,Lake Colleen,Gujarat,Credit Card,Fields PLC
+45591,Harley-Davidson,Iron 883,89921,3,269763,Timothy Gross,Patriciaview,Karnataka,EMI,"Williams, Singleton and Wagner"
+45332,Yamaha,FZ,298283,3,894849,Richard Brown,New Jennytown,Gujarat,Cash,"Macias, Watson and Kerr"
+45262,Kawasaki,Versys,117396,2,234792,Gary Hawkins,Turnerport,Maharashtra,Debit Card,"Robinson, Villarreal and Tyler"
+45505,Yamaha,FZ,382267,3,1146801,Michael Brown,Kristinhaven,Karnataka,Debit Card,Jensen-Gonzalez
+45754,Harley-Davidson,Iron 883,298393,2,596786,Brittney Terry,Maryview,West Bengal,Cash,Jones-Jones
+45615,Yamaha,FZ,484478,3,1453434,Jamie Holt,Port Kylieside,Tamil Nadu,Online,Wallace-Thomas
+45536,Honda,Hornet,83613,2,167226,David Hernandez,Julieshire,Maharashtra,EMI,"Kim, Lynch and Little"
+45598,Ducati,Scrambler,123841,3,371523,Kristina Farrell,New Robert,Delhi,EMI,"Martinez, Allen and Edwards"
+45345,Suzuki,Intruder,290169,1,290169,Jacob Gay MD,Saundersside,West Bengal,Online,Jones Inc
+45155,Ducati,Panigale,300929,3,902787,Jacqueline Bowman,Port Karinaton,Rajasthan,Debit Card,Anderson-Reynolds
+45259,Suzuki,Intruder,208371,3,625113,Brandon Brown,Port Andrea,West Bengal,Credit Card,Best and Sons
+45446,Honda,Unicorn,262695,2,525390,Christopher Foster,Williamside,Delhi,Online,Long-Munoz
+45556,Harley-Davidson,Street 750,314789,2,629578,Matthew Sullivan,Port Ericaberg,Delhi,Cash,Ford LLC
+45439,Yamaha,FZS,361300,2,722600,Eric Williams,New Georgeville,Maharashtra,Cash,Barnes LLC
+45764,Suzuki,Gixxer,365377,2,730754,Ashley Hall,Nicolemouth,Maharashtra,Online,Santiago-Buchanan
+45378,Royal Enfield,Bullet 350,174880,1,174880,Jonathan Morales,East Kerri,Karnataka,Cash,Austin and Sons
+45573,Yamaha,MT-15,280953,2,561906,Joshua Garcia,Beckychester,Gujarat,Online,"Simmons, Patton and Adams"
+45433,Honda,Hornet,323381,2,646762,Paula Johnson,Port Robert,Karnataka,EMI,Frederick and Sons
+45363,Harley-Davidson,Iron 883,220722,3,662166,Janet Stone,Morganburgh,Rajasthan,Online,Flynn-Jennings
+45233,Ducati,Panigale,320099,2,640198,Teresa Mora,Scotthaven,Rajasthan,Online,Santos LLC
+45380,Kawasaki,Versys,386122,2,772244,Yvette Thompson,Joneston,Delhi,Credit Card,Farley-Webb
+45199,Yamaha,MT-15,89843,3,269529,Theresa Morgan,Nicoleborough,Maharashtra,EMI,"Freeman, Huang and Vega"
+45558,Honda,Hornet,345086,3,1035258,Adam Bell,Gordontown,West Bengal,Debit Card,Vaughan Group
+45336,Royal Enfield,Classic 350,312829,2,625658,Michael Richardson,Williamfort,Rajasthan,Cash,Smith-Collins
+45659,Royal Enfield,Classic 350,159682,1,159682,Erica Knight,Hernandezmouth,West Bengal,Online,Branch-Flores
+45086,Ducati,Scrambler,114601,3,343803,Margaret Anderson,Marvinchester,Gujarat,Debit Card,Galloway-Harris
+45761,Ducati,Panigale,215548,2,431096,Mr. Kevin Martinez,Kaylamouth,Maharashtra,Online,Luna Ltd
+45224,Suzuki,Gixxer,93380,3,280140,James Wong,Markstad,Delhi,Credit Card,"Dean, Byrd and Allen"
+45488,Yamaha,MT-15,264458,2,528916,Micheal Mendoza,West Shannonview,Delhi,Online,"Bolton, Day and Hanson"
+45555,Yamaha,FZ,332098,1,332098,Danny Mcneil,Burnettmouth,Rajasthan,Online,"Miller, Lozano and Carlson"
+45349,Kawasaki,Ninja 300,172241,1,172241,Cindy Gardner,Sonyaville,Tamil Nadu,Credit Card,Smith LLC
+45419,Yamaha,FZ,427128,3,1281384,James Ewing,Garciaport,Gujarat,Credit Card,Fry Group
+45731,Yamaha,FZS,385171,3,1155513,Jeffrey Bowen,East Robert,Delhi,Credit Card,"Frank, Baker and Bell"
+45258,Harley-Davidson,Street 750,454483,2,908966,Nicole Greene,New Vanessastad,West Bengal,Online,"Cox, Crawford and Vasquez"
+45273,Harley-Davidson,Iron 883,492111,3,1476333,Jamie Kemp,Nguyenton,Karnataka,Credit Card,Hansen-Martin
+45370,Honda,Hornet,425223,1,425223,Jacob Mcgee,North Tylerport,Delhi,Debit Card,Jones PLC
+45350,Honda,CB Shine,297904,1,297904,Robert Herman,North Grant,West Bengal,EMI,"Diaz, Cardenas and Perkins"
+45126,Honda,CB Shine,365390,1,365390,Sarah Henderson,West Kristine,West Bengal,EMI,Padilla-Freeman
+45583,Kawasaki,Ninja 300,109196,1,109196,Marcus Gomez,Lake Patrickstad,Delhi,Debit Card,Acosta-Graham
+45428,Royal Enfield,Classic 350,246436,3,739308,Danielle Harris,West Amandashire,Tamil Nadu,Online,Mclean Group
+45106,Yamaha,R15,489633,2,979266,Megan Mills,Shawland,Gujarat,Credit Card,"Malone, Gonzalez and Crosby"
+45047,Ducati,Scrambler,475964,2,951928,William Crawford,Jaredland,Gujarat,Credit Card,Middleton and Sons
+45474,Ducati,Monster,80117,3,240351,Mrs. Briana Douglas,South Jose,Karnataka,Cash,Miller-Adams
+45312,Suzuki,Intruder,307556,1,307556,Justin Espinoza,Port Jasonstad,Delhi,Debit Card,Walker-Kaufman
+45721,Royal Enfield,Classic 350,191771,3,575313,Terry Garcia,South Michaeltown,Rajasthan,Online,Humphrey-Neal
+45137,Suzuki,Intruder,214417,1,214417,Thomas Brown,New Russelltown,West Bengal,Cash,Rodriguez Ltd
+45223,Harley-Davidson,Forty-Eight,492752,1,492752,Sandra Doyle,Maxwellchester,Gujarat,Cash,Bryan-Nelson
+45439,Honda,CBR500R,153081,3,459243,Douglas Parks,Hubbardtown,Rajasthan,EMI,Jones-Mcintyre
+45185,Ducati,Scrambler,434460,3,1303380,Cassandra Manning,New Brandon,Maharashtra,Cash,Harvey LLC
+45125,Suzuki,Access 125,95155,1,95155,David Smith DDS,Mariechester,Tamil Nadu,Online,Gonzalez-Greene
+45115,Ducati,Panigale,220646,2,441292,Lisa Lane,Stewartbury,Maharashtra,Online,Benson LLC
+45308,Harley-Davidson,Forty-Eight,317215,1,317215,James Tran,Cassidymouth,Karnataka,Debit Card,Miller LLC
+45192,Yamaha,FZ,489826,1,489826,Andrew West,Lynchstad,Karnataka,Online,Carroll and Sons
+45325,Suzuki,Intruder,424488,2,848976,Kristin Gonzales,Martinezville,Gujarat,Cash,"Baker, Hughes and Brown"
+45322,Harley-Davidson,Street 750,499258,3,1497774,Mr. Christopher Mahoney,Whitneyfort,West Bengal,Debit Card,"Greene, Jones and Thompson"
+45198,Royal Enfield,Bullet 350,408877,1,408877,Dr. Scott Hansen,South Michael,West Bengal,EMI,Moore-Griffin
+45053,Honda,Hornet,319882,3,959646,Robert Carson,North Sharonberg,Delhi,Online,Whitaker Group
+45248,Harley-Davidson,Iron 883,465397,3,1396191,Mitchell Jarvis,Carlabury,Maharashtra,Cash,Gross Ltd
+45259,Suzuki,Intruder,97362,1,97362,George Watts,Lake Patrick,Delhi,Online,Wood-Soto
+45393,Harley-Davidson,Street 750,139476,3,418428,Jamie Gonzalez,Gonzalezville,Rajasthan,Credit Card,Welch-Miller
+45309,Suzuki,Intruder,115535,3,346605,Corey Johnson,New Dawn,Tamil Nadu,Online,Barrett-Hill
+45393,Ducati,Scrambler,247785,1,247785,Jacob Baker,West John,Delhi,Credit Card,"Thompson, Mooney and Jimenez"
+45746,Ducati,Panigale,165562,3,496686,Carl Evans,Byrdmouth,Rajasthan,Debit Card,Collins Inc
+45671,Harley-Davidson,Forty-Eight,90926,1,90926,Kathy Hawkins,South Jessicaport,Maharashtra,Debit Card,"Williams, Adams and Smith"
+45459,Royal Enfield,Himalayan,163332,2,326664,Rachel Bryant,North James,Karnataka,Credit Card,Sloan PLC
+45550,Royal Enfield,Classic 350,291671,1,291671,Toni Brown,Gallagherbury,Karnataka,Debit Card,Rose LLC
+45550,Kawasaki,Z650,462104,3,1386312,Madison Curry,East Jamesview,Maharashtra,EMI,"Duran, Clark and Stevens"
+45216,Kawasaki,Z650,88899,1,88899,Tanner Cook,Mitchellland,Gujarat,EMI,"Lewis, Lawrence and Perez"
+45222,Harley-Davidson,Iron 883,385554,2,771108,Tiffany Hughes,East Heatherberg,Tamil Nadu,Cash,Brown-Diaz
+45479,Royal Enfield,Classic 350,390031,1,390031,Adam Bennett,Crossberg,Rajasthan,Debit Card,Green PLC
+45649,Kawasaki,Versys,157255,2,314510,Christopher Bates,Lake Stephenland,West Bengal,Debit Card,"Villanueva, Wilson and Meyer"
+45581,Royal Enfield,Bullet 350,203881,3,611643,Amanda Brown DVM,Antoniomouth,West Bengal,Credit Card,"Gonzalez, Crane and Lindsey"
+45396,Yamaha,FZ,250046,2,500092,Mackenzie Ortiz,Port Adam,Delhi,Online,Reynolds-Rush
+45390,Kawasaki,Ninja 300,314393,3,943179,Patrick Butler,Gracechester,Tamil Nadu,Cash,Douglas and Sons
+45109,Yamaha,FZS,292703,1,292703,James Valencia,New Brendaburgh,Tamil Nadu,EMI,Newman Inc
+45100,Kawasaki,Z650,304589,3,913767,Allen Clark,Suttontown,Karnataka,Debit Card,Ray-Reynolds
+45733,Suzuki,Access 125,295736,3,887208,Ryan Stanley,Guzmanville,Maharashtra,EMI,"Gonzales, Hensley and Smith"
+45431,Ducati,Scrambler,109264,3,327792,Meredith Mccarthy,South Jonathanberg,Karnataka,Cash,Tate PLC
+45225,Yamaha,FZS,144891,2,289782,Michael Perez,Lake Paulamouth,Rajasthan,Cash,"Luna, Aguirre and White"
+45348,Ducati,Panigale,233083,2,466166,Alex Duffy,Juliefort,Maharashtra,Cash,Ford and Sons
+45488,Ducati,Scrambler,256922,1,256922,Debra Taylor,West Sherrifort,West Bengal,Debit Card,"Nelson, Henry and Jones"
+45593,Royal Enfield,Bullet 350,483146,3,1449438,Sarah Murphy,South Angelamouth,Tamil Nadu,Online,"Smith, Combs and Jackson"
+45501,Yamaha,FZ,322877,3,968631,Jessica Sherman,South Evantown,Gujarat,Debit Card,King-Green
+45086,Harley-Davidson,Street 750,397657,2,795314,Natalie Oneill,South Micheleport,Gujarat,Online,Pope-Cuevas
+45709,Honda,Hornet,200840,3,602520,Terri Ramsey,Timothytown,Tamil Nadu,Online,"Nelson, Bailey and Wheeler"
+45643,Royal Enfield,Classic 350,357034,1,357034,Glenda Gilbert,Jasonville,Karnataka,Online,Mckenzie and Sons
+45072,Harley-Davidson,Street 750,118957,2,237914,Trevor Johnson,East Paulamouth,Karnataka,Online,Phillips-Holmes
+45487,Ducati,Monster,360099,3,1080297,Lisa Alvarez,Lake Williamhaven,Gujarat,Cash,"Rogers, Bell and Valenzuela"
+45069,Honda,Hornet,407590,2,815180,Jonathan Fields,South Roberthaven,Maharashtra,Online,"Patrick, Matthews and Miller"
+45317,Honda,CB Shine,320837,1,320837,Sandra Mitchell,Jamesmouth,Delhi,Online,Kirby-Guerrero
+45150,Kawasaki,Versys,174120,2,348240,Lee Mueller,Kylemouth,Tamil Nadu,Online,"Patrick, Gray and King"
+45664,Ducati,Panigale,495850,2,991700,Pamela Coleman,Port Gina,Gujarat,Cash,Warren-Williams
+45259,Suzuki,Intruder,232692,2,465384,Tiffany Pena,Parkerton,Delhi,EMI,"Bentley, Reyes and Galvan"
+45533,Royal Enfield,Classic 350,372069,2,744138,Grant Parks,Vaughanshire,Rajasthan,Credit Card,Collins Inc
+45264,Harley-Davidson,Iron 883,197665,2,395330,George Roberts,Garciaview,Gujarat,Online,Shaffer-Jackson
+45545,Honda,CBR500R,98211,2,196422,Rebecca Garcia,Cummingsville,West Bengal,EMI,"Smith, Jenkins and Campbell"
+45679,Suzuki,Access 125,317688,3,953064,Catherine Gibson,North Nathan,Karnataka,Online,Hayes-Jones
+45152,Yamaha,MT-15,142142,1,142142,Mark Gordon,Lisaville,Karnataka,Debit Card,"Dennis, Wood and Randolph"
+45235,Kawasaki,Versys,294916,1,294916,Todd Medina,Berrychester,Delhi,EMI,"Preston, Strickland and Bailey"
+45695,Harley-Davidson,Forty-Eight,427326,2,854652,David Chandler MD,Scottmouth,Tamil Nadu,EMI,Potts Inc
+45303,Ducati,Panigale,285457,1,285457,Scott Mccall,Francesburgh,West Bengal,Debit Card,"Vega, Fitzgerald and Henry"
+45179,Suzuki,Intruder,217328,1,217328,Ashley Craig,Port Mariaton,Delhi,Cash,Roy Inc
+45206,Honda,Unicorn,347206,2,694412,Michael Sparks,South Johnny,Karnataka,EMI,Nguyen Ltd
+45557,Honda,Unicorn,139854,1,139854,Shawn Ashley,Patricktown,Delhi,EMI,"Roy, Green and Morgan"
+45356,Honda,Unicorn,377394,3,1132182,Christopher Vaughn,Youngshire,Rajasthan,EMI,Conway Ltd
+45747,Harley-Davidson,Street 750,399146,2,798292,Jill Rodgers,Lauriechester,Karnataka,Credit Card,Padilla Ltd
+45210,Honda,Hornet,358186,1,358186,Harry Brown,Port Jeremyview,West Bengal,Online,Turner PLC
+45424,Honda,Unicorn,243029,1,243029,Robert White,South Crystalport,Delhi,Debit Card,"Smith, Stokes and Carroll"
+45597,Harley-Davidson,Street 750,343625,3,1030875,John Cuevas,Port Ronaldmouth,West Bengal,EMI,Gentry LLC
+45364,Ducati,Scrambler,183589,2,367178,Kathy Cruz,West James,Gujarat,Credit Card,King-Johnson
+45684,Yamaha,MT-15,366599,3,1099797,Allison Adams,Catherineberg,Delhi,Cash,"Rivera, Harrison and Pierce"
+45626,Yamaha,MT-15,172723,1,172723,John Thompson,Jenniferfort,Tamil Nadu,EMI,Garcia-Gross
+45351,Yamaha,R15,227701,2,455402,April Stokes,Jenkinschester,Maharashtra,EMI,Rodriguez-Palmer
+45524,Harley-Davidson,Iron 883,425701,1,425701,Stephen Hernandez,Cooleyborough,Rajasthan,Debit Card,"Wiggins, Peterson and Andrews"
+45682,Yamaha,FZ,359363,2,718726,Nicole Wolfe,Hawkinsbury,Gujarat,Credit Card,Wallace and Sons
+45217,Honda,CB Shine,303789,3,911367,Stephen Diaz,North Ashley,Rajasthan,Credit Card,Williams Group
+45343,Honda,CB Shine,285394,1,285394,Evan Walker,Lake Nathan,Maharashtra,Cash,Castaneda Ltd
+45337,Ducati,Panigale,408315,2,816630,Daniel Taylor,Montgomeryfort,Karnataka,Debit Card,"Bell, Miller and Ramirez"
+45180,Kawasaki,Ninja 300,307532,3,922596,Jason Johnson,Christopherburgh,Rajasthan,EMI,Payne-Lewis
+45067,Yamaha,FZS,166735,3,500205,Valerie Smith,Mosschester,West Bengal,EMI,Wallace-Douglas
+45575,Royal Enfield,Himalayan,238106,2,476212,Tracy Johnson,Michaelborough,Tamil Nadu,Online,"Anderson, Hardy and Kim"
+45260,Harley-Davidson,Street 750,149799,3,449397,Nicholas Luna,Joshuashire,Tamil Nadu,EMI,Pitts-Perry
+45142,Royal Enfield,Bullet 350,134488,1,134488,Jessica Walsh,Rushton,Karnataka,Online,Bartlett Inc
+45104,Kawasaki,Versys,278394,1,278394,Bryan Blackburn,Katelynborough,Karnataka,Debit Card,Dawson-Gilbert
+45131,Kawasaki,Ninja 300,112124,2,224248,Robert Gonzalez,Port Jean,Delhi,Online,Jackson and Sons
+45729,Harley-Davidson,Street 750,368834,1,368834,Victoria Fox,East Kelly,Rajasthan,Credit Card,Cunningham-Gonzales
+45374,Kawasaki,Ninja 300,153531,3,460593,Dennis Lewis,New Tiffanyhaven,Rajasthan,EMI,Martin Inc
+45764,Royal Enfield,Bullet 350,348549,1,348549,Jose Ramirez,Turnerville,Maharashtra,EMI,Sutton-Medina
+45231,Kawasaki,Versys,363316,1,363316,Diana Harris,South Wendybury,Maharashtra,Online,Franklin-Gray
+45528,Kawasaki,Ninja 300,258500,2,517000,Jerry Griffin,New Amandaside,Karnataka,Online,Jones PLC
+45160,Kawasaki,Z650,222810,3,668430,Darryl Ortiz,North Joseph,Delhi,Cash,Myers Inc
+45663,Harley-Davidson,Forty-Eight,406152,1,406152,Edward Fernandez,East Richard,Rajasthan,Cash,"Garcia, Cuevas and Hall"
+45219,Harley-Davidson,Forty-Eight,372921,3,1118763,Lauren Thomas,Waltershaven,Rajasthan,Cash,Dennis LLC
+45656,Royal Enfield,Bullet 350,204150,3,612450,Austin Reynolds,New Madison,Karnataka,Cash,Shaw and Sons
+45311,Honda,CB Shine,489076,2,978152,Jessica Davis,Port Nancy,Maharashtra,Cash,"Powell, Herrera and Gonzales"
+45466,Yamaha,FZ,180695,3,542085,Monica Carroll,Yeseniaburgh,Maharashtra,Online,"Shaffer, Jones and Brown"
+45729,Suzuki,Intruder,421304,1,421304,Jimmy Hansen,Stevenchester,Tamil Nadu,Cash,Long PLC
+45576,Royal Enfield,Classic 350,90495,1,90495,John Garcia,Bradshawburgh,Rajasthan,Online,Roberts-Vargas
+45643,Royal Enfield,Himalayan,491759,1,491759,Mark Miller,Dustinton,Delhi,Credit Card,Nguyen-Alexander
+45693,Suzuki,Gixxer,454003,1,454003,Patrick Brown,South Randy,West Bengal,Cash,Johnson-Howard
+45666,Suzuki,Gixxer,369530,2,739060,John Bryant,Lake Valerie,Gujarat,Debit Card,Johnson and Sons
+45484,Honda,Hornet,350876,3,1052628,Clinton Cooper,West Loganmouth,Karnataka,EMI,"Morales, Patterson and Archer"
+45644,Ducati,Scrambler,194562,2,389124,Brandi Bailey,South Seanfort,Gujarat,Online,Daniels LLC
+45136,Ducati,Monster,294489,3,883467,Thomas Holmes,Mariamouth,Karnataka,Credit Card,Scott and Sons
+45134,Royal Enfield,Bullet 350,229850,3,689550,Joshua Brown,Carlymouth,Karnataka,Online,"Rasmussen, Campbell and Glenn"
+45110,Ducati,Panigale,135825,2,271650,Ronald Molina,West Troy,Rajasthan,Cash,Stone-Patrick
+45282,Yamaha,FZS,196273,2,392546,Peter Walter,Jamesside,Rajasthan,Credit Card,Hernandez LLC
+45543,Yamaha,MT-15,445793,2,891586,George Klein,Mannhaven,Karnataka,EMI,"Santos, Garcia and Munoz"
+45106,Ducati,Monster,155286,1,155286,Matthew Jimenez,Greenton,Delhi,Credit Card,Ford PLC
+45351,Yamaha,FZ,271147,3,813441,Craig Davis,Hayesbury,Gujarat,EMI,Williams-Taylor
+45295,Suzuki,Intruder,130651,2,261302,Robert Thornton,West Tracey,Delhi,Online,Johnston-Roberts
+45730,Honda,Unicorn,102972,3,308916,Ryan Arnold,South Travisville,Rajasthan,Debit Card,Lee-Bean
+45333,Royal Enfield,Bullet 350,411552,1,411552,Jason Wood,New Joseph,Delhi,Debit Card,Smith-Boyd
+45271,Suzuki,Intruder,307676,1,307676,Raymond Rivera,Freyville,Delhi,Online,"Barton, Clark and Rogers"
+45707,Suzuki,Gixxer,352754,2,705508,Carolyn Christensen,North Morganmouth,Karnataka,Online,"Elliott, Ochoa and Jones"
+45770,Suzuki,Access 125,444635,1,444635,Terry Galloway,Reyesmouth,Rajasthan,Debit Card,Jones PLC
+45723,Suzuki,Intruder,112401,1,112401,William Lopez,Karinaport,Rajasthan,Credit Card,"Singh, Stevens and Garcia"
+45492,Harley-Davidson,Iron 883,208260,2,416520,Shawn Cobb,Shepardton,Rajasthan,Credit Card,"Evans, Jones and Foster"
+45516,Royal Enfield,Himalayan,270702,3,812106,Jenna Walton,New Laurenfurt,Delhi,Debit Card,"Miles, Dalton and Scott"
+45174,Royal Enfield,Classic 350,199223,3,597669,Rose Norris,New Leah,Tamil Nadu,Cash,"Lloyd, Harding and Thompson"
+45543,Harley-Davidson,Forty-Eight,223813,2,447626,Matthew Fleming,Martinport,Tamil Nadu,Debit Card,"Rogers, Johnson and Williams"
+45630,Suzuki,Gixxer,410400,1,410400,Roger Williams,Wilcoxport,Gujarat,EMI,"Jones, Dennis and Robles"
+45596,Yamaha,MT-15,390776,3,1172328,Jonathan Tyler,North Kristen,West Bengal,Credit Card,"Torres, Carter and Smith"
+45566,Kawasaki,Z650,415747,2,831494,Christine King,Salazarport,Maharashtra,EMI,"Randall, Brady and Webb"
+45624,Yamaha,MT-15,448804,2,897608,Felicia Smith,Amandaborough,Delhi,EMI,Perez-Hensley
+45216,Royal Enfield,Bullet 350,210731,3,632193,David Huerta,New Kevinport,Tamil Nadu,Credit Card,"Turner, Reyes and Wells"
+45161,Suzuki,Intruder,372673,3,1118019,Jason Hinton,New Sarah,Karnataka,Cash,"Haney, Turner and Jones"
+45063,Royal Enfield,Bullet 350,390253,3,1170759,Emily Owens,Scottfort,West Bengal,Cash,Ryan-Frazier
+45057,Ducati,Scrambler,222894,3,668682,Denise Sanchez,South Anthonyton,Gujarat,Online,Adams-Day
+45615,Yamaha,FZ,371225,3,1113675,Cameron Rodgers,Lake Lauren,Rajasthan,EMI,"Chavez, Harris and Keith"
+45655,Suzuki,Intruder,209622,3,628866,Mikayla Diaz,Aprilfurt,Rajasthan,Cash,"Martin, Bradley and Perry"
+45636,Royal Enfield,Classic 350,131402,1,131402,Briana Vega,New Tracyborough,West Bengal,Credit Card,Richardson LLC
+45116,Kawasaki,Versys,405397,3,1216191,Mr. William Branch,West John,Rajasthan,EMI,"Griffin, Atkins and Parker"
+45319,Yamaha,R15,130051,1,130051,Kara Murphy,Millsfurt,West Bengal,Debit Card,Carey-Schwartz
+45632,Suzuki,Intruder,410259,1,410259,Bridget Lyons,Gainesside,Tamil Nadu,EMI,"Chase, Schroeder and Schwartz"
+45194,Royal Enfield,Bullet 350,179157,2,358314,William Gray,West Ronaldshire,Delhi,Credit Card,Flowers-Parker
+45314,Royal Enfield,Bullet 350,463195,2,926390,Joseph Smith,Lake Michelle,Maharashtra,EMI,"Caldwell, Stewart and King"
+45141,Honda,CB Shine,389944,2,779888,Jason Johnson,Lake Melanieton,Gujarat,EMI,Mcdaniel PLC
+45310,Ducati,Panigale,97585,3,292755,Stacey Lopez,South Lori,Gujarat,Cash,Leach-Vargas
+45385,Honda,Hornet,201070,2,402140,Frank Dougherty,Chadview,Gujarat,Credit Card,Williams and Sons
+45043,Harley-Davidson,Forty-Eight,351211,2,702422,Kristine Johnson,Figueroaland,Delhi,EMI,"Patterson, Webb and Johnson"
+45140,Yamaha,MT-15,260365,3,781095,Karen Brooks,North Nicolasland,Tamil Nadu,Cash,"Johnson, Peterson and Stevenson"
+45053,Honda,Hornet,139078,3,417234,Samantha Bell,New Jessicaland,West Bengal,EMI,"Martin, Miller and Logan"
+45264,Yamaha,R15,313218,2,626436,Gwendolyn Wilkins,Johnsonmouth,Maharashtra,Debit Card,Smith and Sons
+45230,Ducati,Monster,120948,3,362844,Jonathan Patterson,Lake Karenfurt,Delhi,Credit Card,Garcia-Vasquez
+45559,Suzuki,Gixxer,185987,2,371974,Jonathan Miller,Allenville,Gujarat,Cash,Hall-Powell
+45207,Kawasaki,Versys,334614,1,334614,Donna David,Perezmouth,West Bengal,Credit Card,Reyes-Carson
+45606,Harley-Davidson,Forty-Eight,429601,3,1288803,Joshua Ashley,Fieldsborough,Gujarat,Debit Card,"Johnson, Bradshaw and Stone"
+45470,Yamaha,FZ,211818,3,635454,Donald Webb,Trujillofort,Rajasthan,Debit Card,Davidson and Sons
+45202,Ducati,Scrambler,473052,3,1419156,Brandi Sanchez DDS,New Melinda,Delhi,EMI,Holmes Ltd
+45105,Yamaha,FZS,267482,3,802446,Kathleen Contreras,South Kimberlybury,Gujarat,EMI,Hill-Cruz
+45273,Kawasaki,Z650,312104,3,936312,Christopher Peterson,New Joshuabury,Delhi,Credit Card,"Rowe, Hendricks and Johnson"
+45475,Suzuki,Gixxer,130077,3,390231,Jeffery Cox,South Julieview,Maharashtra,Online,Wright Ltd
+45530,Honda,Unicorn,182135,1,182135,Kara Allen,West Chelseyville,Maharashtra,Credit Card,"Hale, Johnson and Fox"
+45215,Suzuki,Access 125,221348,1,221348,Aaron Davies,Danamouth,Rajasthan,Debit Card,Lopez-Webb
+45731,Royal Enfield,Classic 350,111194,2,222388,Jesus Rice,Davidton,Karnataka,Online,Hunt and Sons
+45739,Honda,Unicorn,254833,1,254833,Matthew Cohen,Garciaport,Rajasthan,Credit Card,"Simmons, Reese and Rice"
+45338,Yamaha,R15,298299,3,894897,John Newman,Jamesburgh,Tamil Nadu,EMI,"Haas, Mason and Drake"
+45422,Ducati,Monster,481827,3,1445481,Mrs. Angela Craig,Wallacefort,West Bengal,Credit Card,Hunter-Howard
+45058,Harley-Davidson,Street 750,252247,3,756741,Kyle Jones,Makaylahaven,West Bengal,Online,Boyd LLC
+45542,Harley-Davidson,Forty-Eight,373637,1,373637,Rebekah Hopkins,Vincentmouth,Delhi,Online,Bowman PLC
+45048,Suzuki,Intruder,470650,2,941300,Lauren Rice,North Kimberly,Delhi,Credit Card,Anderson-Meyer
+45529,Yamaha,MT-15,247113,3,741339,Mitchell Boyd,Lake Katherinemouth,Tamil Nadu,Online,"Coleman, Key and Bryant"
+45746,Harley-Davidson,Iron 883,145689,3,437067,Joshua Foley,New Elizabethview,Delhi,Debit Card,Gomez and Sons
+45567,Harley-Davidson,Forty-Eight,167311,3,501933,Dean Cherry,North Justin,West Bengal,Online,Smith-Gregory
+45436,Honda,CBR500R,149436,2,298872,Kathy Armstrong,West Douglas,Tamil Nadu,EMI,Valencia Inc
+45766,Harley-Davidson,Iron 883,169713,1,169713,Christopher Cruz,Andersonburgh,Delhi,Cash,Griffin-Mccoy
+45497,Yamaha,FZ,270622,3,811866,David Parker,Davismouth,Tamil Nadu,Online,"Murillo, York and Bryan"
+45219,Harley-Davidson,Iron 883,206142,3,618426,Melissa Rivas,East Vincent,Gujarat,Cash,Scott-Owen
+45524,Harley-Davidson,Iron 883,351040,2,702080,Barbara Odonnell,Port Joshua,Karnataka,Debit Card,Rocha-Young
+45196,Royal Enfield,Himalayan,381376,2,762752,Sean Taylor,East Juliehaven,Delhi,EMI,Harmon-Hurst
+45722,Yamaha,FZ,494080,2,988160,Mary Bennett,Lake Rebeccaview,Delhi,Cash,"Murillo, Cardenas and Finley"
+45452,Kawasaki,Z650,375185,2,750370,Michael Miller,Peckland,West Bengal,Online,Garcia and Sons
+45286,Ducati,Scrambler,391523,2,783046,Lisa White,East Dawnville,Karnataka,Credit Card,Merritt Ltd
+45263,Yamaha,FZS,355307,2,710614,Trevor Mitchell,North Garychester,Delhi,Credit Card,Chen PLC
+45241,Royal Enfield,Bullet 350,422916,2,845832,Courtney Turner,Aaronside,Maharashtra,Debit Card,"Le, Harrington and Wall"
+45744,Suzuki,Access 125,264187,1,264187,Katrina Martin,South Joeland,Maharashtra,Cash,Crane-Duran
+45671,Yamaha,FZS,448733,1,448733,Johnny Li,West Marcville,Maharashtra,Cash,Spears-Johnson
+45769,Yamaha,R15,135544,1,135544,John Kemp,Rayhaven,Rajasthan,Online,Romero-Yang
+45633,Kawasaki,Z650,340314,2,680628,Heather Clayton,Carterland,Maharashtra,EMI,Bartlett LLC
+45527,Honda,CB Shine,82485,3,247455,Julie Barnett,New Josephchester,Tamil Nadu,Online,Tucker and Sons
+45454,Ducati,Panigale,449110,3,1347330,Christopher Arias,West Sarahmouth,Delhi,Cash,Mitchell Ltd
+45532,Yamaha,FZ,103443,3,310329,Amy Anderson,East Christopherfurt,Rajasthan,Cash,Henderson Inc
+45395,Suzuki,Intruder,364200,2,728400,Michael French,Michaelville,Karnataka,Credit Card,"Stone, Williams and Mack"
+45255,Royal Enfield,Himalayan,157780,2,315560,Max Nelson,Staffordville,Rajasthan,Debit Card,Rice Ltd
+45694,Ducati,Monster,373362,1,373362,Hannah Thomas,Kirbystad,Rajasthan,Credit Card,"Roth, Jackson and Grimes"
+45601,Harley-Davidson,Forty-Eight,264383,1,264383,Rachel West,Port Markchester,Rajasthan,Debit Card,"Dunn, Ross and Barker"
+45739,Royal Enfield,Himalayan,176553,3,529659,Sarah Ramos,Leehaven,Rajasthan,Debit Card,Austin and Sons
+45183,Ducati,Scrambler,422870,2,845740,Jacqueline Brown,Shirleyshire,Gujarat,Credit Card,Thompson-Newman
+45677,Kawasaki,Z650,379544,2,759088,Casey Ortega,Geoffreyside,Gujarat,Debit Card,"Phillips, Brown and Moore"
+45111,Ducati,Monster,84844,2,169688,Gregory Spencer,Davishaven,Tamil Nadu,Cash,Torres-Johnson
+45229,Ducati,Monster,269823,2,539646,Angel Cox,Stewartburgh,Rajasthan,Online,"Stark, Miller and Lucas"
+45720,Ducati,Monster,104353,2,208706,Felicia Brown,North Wendyshire,Tamil Nadu,Online,Bennett Ltd
+45561,Yamaha,MT-15,131844,1,131844,David Thompson,New Michael,Delhi,Online,Hunt-Durham
+45268,Ducati,Panigale,258967,2,517934,Gregory Cross,Paulstad,Karnataka,Debit Card,Turner Group
+45746,Ducati,Panigale,321924,1,321924,Sue Henry,Kristaview,Tamil Nadu,EMI,Leonard Group
+45656,Honda,CB Shine,124915,1,124915,Cory Holland,Lake Joseph,Gujarat,Cash,Wiggins-Kelly
+45696,Kawasaki,Versys,220118,3,660354,Nicole Ramirez,Bethanyville,Karnataka,Cash,Bradley-White
+45616,Harley-Davidson,Iron 883,474409,2,948818,Antonio Ritter,North Laurafurt,West Bengal,EMI,Curtis-Moore
+45651,Suzuki,Gixxer,295362,1,295362,Raymond Lynch,Erinview,West Bengal,Cash,"Obrien, Clark and Williams"
+45179,Harley-Davidson,Forty-Eight,215045,2,430090,Eric Rivera,Abigailbury,Karnataka,Online,Glass-Clark
+45715,Suzuki,Gixxer,141376,2,282752,Christopher Hicks,North Cherylfurt,Delhi,Credit Card,Gonzalez Ltd
+45478,Royal Enfield,Classic 350,411801,3,1235403,Amanda Rice,Marcusshire,Delhi,EMI,Smith Group
+45163,Ducati,Panigale,242732,2,485464,Alexandria Lam,Jesseland,West Bengal,Credit Card,Brown-Jones
+45396,Honda,Unicorn,429100,1,429100,Colleen Garcia,Williamsbury,Maharashtra,Debit Card,Whitney LLC
+45172,Ducati,Scrambler,357788,2,715576,Brian Gaines,Port Laurenstad,West Bengal,Online,"Golden, Rice and Evans"
+45629,Harley-Davidson,Street 750,363235,3,1089705,Jessica Williams,Port Wendy,Rajasthan,EMI,Johnson-Miller
+45074,Kawasaki,Z650,144274,3,432822,Jennifer Bailey,Thompsonbury,Rajasthan,Online,Mercado-Harris
+45348,Ducati,Panigale,412051,2,824102,Tracey Silva,Port Jacobborough,Tamil Nadu,Cash,Wood Group
+45582,Royal Enfield,Himalayan,85275,1,85275,Brian Simon,Timothyberg,Gujarat,Cash,"Barnes, Ayers and Mccoy"
+45272,Kawasaki,Ninja 300,181164,1,181164,Megan Stanley,Stewartmouth,Gujarat,Credit Card,"Becker, Fisher and Gardner"
+45127,Honda,Unicorn,460074,2,920148,Deborah Stephens,North Anthonymouth,Gujarat,Cash,Lynn and Sons
+45165,Royal Enfield,Himalayan,266727,2,533454,William Cook,Moodyfurt,Tamil Nadu,Online,Carson-Cervantes
+45590,Royal Enfield,Himalayan,211273,3,633819,Jeffrey Lopez,Stephensfort,Karnataka,Debit Card,"Green, Bailey and Clark"
+45336,Suzuki,Access 125,310121,3,930363,Amanda Freeman,East Edward,Karnataka,Credit Card,Davis Ltd
+45135,Honda,Hornet,137653,2,275306,Darren Good,Lake Samanthashire,Gujarat,EMI,Rodriguez Inc
+45334,Yamaha,MT-15,254392,2,508784,William Cline,Jillfurt,Delhi,EMI,Davis-Suarez
+45432,Yamaha,MT-15,444593,2,889186,Joseph Ortega,Adamsville,Gujarat,Credit Card,Clark-Spencer
+45223,Kawasaki,Ninja 300,349660,1,349660,Daryl Hoover,Port Karenbury,Delhi,Credit Card,"Olson, Taylor and Fernandez"
+45364,Harley-Davidson,Iron 883,310741,2,621482,Stephen Trujillo,Port Ryanton,West Bengal,Online,Cohen and Sons
+45207,Yamaha,FZS,487897,3,1463691,Melissa Figueroa,South Jeremiahton,Tamil Nadu,Online,"Smith, Henry and James"
+45373,Harley-Davidson,Iron 883,447278,1,447278,Heather Hobbs,South Jennifertown,Karnataka,EMI,Hardy-Rodgers
+45602,Suzuki,Intruder,143978,2,287956,Michael Armstrong,West Kennethton,Rajasthan,Online,Day Ltd
+45342,Honda,CBR500R,466128,1,466128,Marc Lewis,Castroberg,Gujarat,EMI,Nguyen-Watson
+45042,Suzuki,Intruder,315211,3,945633,Jason Williams,Palmerport,Maharashtra,Credit Card,King-Hart
+45055,Suzuki,Gixxer,341224,1,341224,Shawn Johnson,Emilyview,Rajasthan,EMI,"Nichols, Ramirez and Luna"
+45112,Royal Enfield,Bullet 350,261145,2,522290,Brandy Rice,Toddtown,Rajasthan,Credit Card,Clay and Sons
+45193,Suzuki,Access 125,324936,1,324936,Ryan Johnson,New Jenniferfurt,Delhi,Cash,Smith-Garner
+45328,Kawasaki,Z650,253537,1,253537,Joshua Johnson,Port Dawnport,Rajasthan,Credit Card,"Garcia, Trevino and Cuevas"
+45621,Honda,Hornet,95122,2,190244,William Kelly,Lake Jamesshire,West Bengal,EMI,Scott and Sons
+45567,Harley-Davidson,Street 750,498715,3,1496145,April Collier,Lancefurt,Delhi,Cash,Collins-Gordon
+45581,Honda,Hornet,445799,1,445799,Christina Watson,New Patricia,Tamil Nadu,Credit Card,Adams PLC
+45271,Suzuki,Access 125,141112,3,423336,Amber Wong DVM,East Randyville,Maharashtra,Debit Card,"Pierce, Jones and Shelton"
+45668,Kawasaki,Versys,443818,2,887636,Robert Young,Jacksonhaven,Gujarat,Credit Card,"Ferguson, Hernandez and Pugh"
+45167,Yamaha,MT-15,187312,1,187312,Andrew Gonzalez,Lake Matthew,Gujarat,Online,Martinez and Sons
+45318,Suzuki,Access 125,131886,3,395658,John Andrade,Leeborough,Gujarat,Debit Card,"Bryan, Reese and Aguilar"
+45354,Honda,CBR500R,235011,1,235011,Marc Dixon,Kristyburgh,Gujarat,Credit Card,"Sherman, Wagner and Nelson"
+45149,Kawasaki,Z650,279186,2,558372,Victoria Carroll,East Patrickville,Maharashtra,EMI,Brown LLC
+45356,Kawasaki,Versys,465319,1,465319,Andrea Petersen,East Kellimouth,Tamil Nadu,Cash,Fernandez-Johnson
+45692,Yamaha,FZ,266405,1,266405,Robert Nixon,Lisahaven,Tamil Nadu,Cash,"Landry, Ponce and Bond"
+45548,Harley-Davidson,Street 750,162368,1,162368,Peter Estes,West Eric,West Bengal,EMI,Wilson Ltd
+45538,Kawasaki,Z650,387793,1,387793,Ronald Wells,Port Michelle,Delhi,EMI,"Shaw, Gaines and Johnson"
+45220,Suzuki,Gixxer,443343,3,1330029,Jose Gardner,Nathanton,Tamil Nadu,EMI,"Castillo, Green and Smith"
+45573,Suzuki,Intruder,393535,3,1180605,Jesse Warner,West Brandon,Gujarat,Online,"Miller, Jennings and Silva"
+45399,Suzuki,Gixxer,481967,3,1445901,Walter Harding,West Amandaside,Maharashtra,Debit Card,Anderson LLC
+45149,Yamaha,R15,112559,3,337677,Adriana Nicholson,Port Stanley,Delhi,Credit Card,Wilcox Group
+45709,Yamaha,MT-15,315889,1,315889,Matthew Moore,North Donnaborough,West Bengal,Credit Card,Moses-Garcia
+45627,Honda,CBR500R,221487,1,221487,Kevin Welch,Armstrongland,Rajasthan,Cash,"Williams, Anderson and Alvarez"
+45228,Yamaha,FZ,282439,1,282439,Bonnie Johnson,New Amyland,Delhi,EMI,Jimenez-Madden
+45689,Ducati,Panigale,165493,3,496479,Christine Mills,Brownshire,Maharashtra,EMI,Chen-Tran
+45053,Harley-Davidson,Forty-Eight,379100,3,1137300,Andrea Johnson,New Rachelbury,West Bengal,EMI,"Wilson, Rogers and Beasley"
+45125,Suzuki,Intruder,464959,1,464959,Mary Smith,West Donnaland,Gujarat,Online,Smith-Le
+45122,Harley-Davidson,Street 750,272517,3,817551,Monica Hinton,Lake Courtney,Delhi,Credit Card,"Bush, Brown and Jones"
+45204,Royal Enfield,Classic 350,369661,2,739322,Ricky Davis,Vanceborough,Gujarat,Credit Card,"Roy, Miller and Clark"
+45651,Harley-Davidson,Street 750,153819,2,307638,Scott Myers,Frenchshire,Delhi,Cash,Williams-Snyder
+45102,Harley-Davidson,Street 750,86741,2,173482,Kelsey Lamb,Lake Alicemouth,Maharashtra,Online,"Brady, Mcknight and Mills"
+45589,Suzuki,Intruder,118489,2,236978,James Miller,Lake Williamland,Gujarat,Online,"Nunez, Young and Duarte"
+45567,Ducati,Panigale,405252,1,405252,Todd Watkins,Meganberg,Gujarat,Debit Card,Krueger Ltd
+45219,Suzuki,Gixxer,321597,1,321597,Richard Roman,Bateschester,Karnataka,EMI,Fisher-Kelley
+45692,Suzuki,Access 125,192946,3,578838,David Sherman,Rowlandchester,Delhi,Online,Yu-Silva
+45676,Harley-Davidson,Street 750,193741,3,581223,Mary Taylor,Underwoodmouth,Karnataka,EMI,"Wilson, Cole and Howard"
+45591,Suzuki,Access 125,84345,3,253035,Joseph Schmidt,Herringville,Karnataka,Cash,"Cook, Page and Mcclain"
+45684,Suzuki,Access 125,96312,1,96312,Nicholas Smith,South Laura,Gujarat,Online,Pham-Sanchez
+45603,Kawasaki,Versys,332603,3,997809,Yvonne Roach,Lorifurt,West Bengal,Debit Card,Reid LLC
+45610,Royal Enfield,Bullet 350,218214,1,218214,Richard Campbell,Davidport,West Bengal,Debit Card,Montoya PLC
+45594,Honda,Hornet,204956,1,204956,Angela Schmidt,Colemanmouth,Karnataka,Credit Card,Foster-Wallace
+45714,Royal Enfield,Himalayan,278175,1,278175,Jesse Schmidt,North Claireport,Maharashtra,Online,Phillips Group
+45471,Royal Enfield,Himalayan,416429,1,416429,Jeffrey Lopez DVM,East Jason,Gujarat,EMI,Fuller-Williams
+45742,Kawasaki,Versys,126082,3,378246,Jeremy Lopez,Rhodesberg,Gujarat,Online,Miller LLC
+45518,Royal Enfield,Classic 350,199903,3,599709,Taylor Davies,Meganstad,Maharashtra,Cash,"Trevino, Vance and Barton"
+45073,Harley-Davidson,Iron 883,152809,3,458427,Valerie Richardson,North Mary,Delhi,EMI,Bennett and Sons
+45606,Harley-Davidson,Street 750,82799,2,165598,Sharon Cooper,West Lorimouth,Tamil Nadu,Credit Card,Lucas and Sons
+45535,Suzuki,Intruder,265019,1,265019,Heidi Chambers,Rowlandfort,Maharashtra,EMI,Pham-Wright
+45763,Honda,Hornet,384535,2,769070,Michael Stein,South Sarah,Delhi,Credit Card,Rivera-Thomas
+45414,Honda,Hornet,278587,1,278587,Christine Harding,Taylorport,Karnataka,Credit Card,Gregory Inc
+45139,Ducati,Panigale,313007,3,939021,Martha Hart,Zacharybury,Rajasthan,Online,Potter-Bailey
+45567,Royal Enfield,Himalayan,388180,2,776360,Frances Smith,West Tracy,West Bengal,Online,Jones-Garcia
+45419,Ducati,Scrambler,468991,1,468991,David Schwartz,South Victoriachester,Rajasthan,Online,Simpson Ltd
+45755,Honda,Hornet,93898,1,93898,Donna Evans,South Timothy,Maharashtra,Debit Card,Rodriguez-Vasquez
+45713,Ducati,Scrambler,300375,3,901125,Kerry Sherman,Port Kylefort,Karnataka,Cash,"Nunez, Humphrey and Sawyer"
+45706,Royal Enfield,Himalayan,482878,3,1448634,Kirk Colon,Port Lisatown,West Bengal,Debit Card,Moore Ltd
+45118,Royal Enfield,Himalayan,352616,2,705232,Terry Alvarez,Moodybury,Gujarat,Credit Card,Lawson Ltd
+45077,Royal Enfield,Classic 350,254804,3,764412,Ms. Pam Gray,West Jesus,Karnataka,Credit Card,Williams Group
+45258,Royal Enfield,Classic 350,430521,2,861042,Anthony Ochoa,Rojasmouth,Gujarat,Credit Card,Ellison-Harris
+45762,Honda,CBR500R,118745,3,356235,Adam Day,Port Spencer,Maharashtra,Online,Barrett-Warner
+45165,Harley-Davidson,Iron 883,439052,2,878104,Andrea Hicks,South Patricia,Gujarat,Online,Ortega Inc
+45307,Yamaha,R15,442075,3,1326225,Luke Rogers,Harperport,Rajasthan,Debit Card,"Crawford, Ford and Sanchez"
+45332,Suzuki,Access 125,159746,3,479238,Julie Cabrera,Sanchezhaven,Maharashtra,Online,Williams Group
+45569,Ducati,Monster,251841,2,503682,Madison Carter,East Jackson,Tamil Nadu,Online,Buck PLC
+45559,Harley-Davidson,Street 750,481486,2,962972,Meghan Horton,Brittanyborough,Delhi,Credit Card,Gibson Ltd
+45715,Kawasaki,Ninja 300,183291,2,366582,Alexander Frank,South Donnaland,Rajasthan,Credit Card,Bartlett Group
+45153,Ducati,Panigale,171674,1,171674,Thomas Ramirez,Rhondahaven,Maharashtra,Debit Card,Burns-Montgomery
+45146,Ducati,Panigale,323913,1,323913,Tammy Riley,New Kaitlynborough,Maharashtra,Online,Berg PLC
+45060,Ducati,Panigale,92311,1,92311,Frank Cowan,Katherinehaven,Tamil Nadu,Debit Card,Mendez PLC
+45392,Kawasaki,Ninja 300,88652,3,265956,David Vargas,Ambermouth,Gujarat,Debit Card,Hale-Ochoa
+45301,Honda,Unicorn,233448,1,233448,Michael Carter,Chapmanchester,Karnataka,Cash,"Clark, Strickland and Nguyen"
+45289,Yamaha,FZ,305688,3,917064,Tara Robinson,Port Patrick,Delhi,EMI,"Graves, Coleman and Orr"
+45209,Honda,Hornet,481998,1,481998,Mary Clayton,West Christopherton,Karnataka,Debit Card,"Edwards, Silva and Brown"
+45556,Yamaha,FZS,438439,1,438439,Lee Dickerson,Lake Charleschester,Tamil Nadu,EMI,Hoffman-Sparks
+45077,Suzuki,Access 125,272160,3,816480,Amanda Hodges,Joneston,Rajasthan,Debit Card,Hahn-Garcia
+45743,Honda,Unicorn,471850,2,943700,Dr. Joseph Williams,Kevinhaven,Maharashtra,EMI,"Nunez, Wagner and Armstrong"
+45451,Yamaha,R15,127643,1,127643,Michael Walters,Port Christophermouth,Maharashtra,EMI,Ramsey Inc
+45200,Royal Enfield,Classic 350,264363,1,264363,Randy Harvey,Port Stevenfurt,Rajasthan,Cash,Guzman LLC
+45461,Honda,CB Shine,453869,3,1361607,Trevor Martinez,North Christianland,Maharashtra,Credit Card,Rivera-Harris
+45528,Kawasaki,Ninja 300,498903,2,997806,Tyler White,North Georgeborough,Tamil Nadu,EMI,Landry Inc
+45460,Kawasaki,Ninja 300,173350,3,520050,Calvin Mclaughlin,New Arthurport,Gujarat,Debit Card,Wall-Fowler
+45202,Suzuki,Access 125,118180,3,354540,Jill Turner,Chelseamouth,Gujarat,Online,"Johnson, Arnold and Hardin"
+45444,Royal Enfield,Himalayan,445299,3,1335897,Tiffany Byrd,Williamsstad,West Bengal,Cash,"Johnson, Christian and Dunn"
+45705,Suzuki,Gixxer,417953,2,835906,John Herman,Port Sandraside,West Bengal,Credit Card,"Martin, Grant and Perez"
+45635,Honda,Hornet,433753,3,1301259,Austin Watson,Hugheshaven,Rajasthan,Cash,"Jenkins, Morales and Spencer"
+45630,Harley-Davidson,Street 750,480528,1,480528,Allen Hickman,Port Sean,Rajasthan,Debit Card,Lowe-Stephenson
+45250,Honda,Unicorn,456882,1,456882,John Johnson,North Amymouth,Gujarat,Online,Jefferson-Warner
+45647,Royal Enfield,Bullet 350,369903,2,739806,Melissa Petersen,East John,Rajasthan,Credit Card,"Burke, Bailey and Jordan"
+45384,Kawasaki,Ninja 300,447011,3,1341033,Laura Costa,West Lindsey,Gujarat,EMI,Coleman-Cervantes
+45393,Suzuki,Intruder,115583,3,346749,Renee Warren,Rothmouth,Maharashtra,EMI,Moore Group
+45598,Suzuki,Access 125,309861,2,619722,Lauren Owens,Watkinsside,Karnataka,Cash,"Scott, Jones and Hart"
+45050,Ducati,Monster,290943,1,290943,Amanda Maxwell,Wilsonville,Gujarat,Online,Jacobs Group
+45248,Harley-Davidson,Iron 883,182910,3,548730,Martin Roth,Deborahside,Tamil Nadu,Cash,Murray Inc
+45063,Harley-Davidson,Iron 883,239410,2,478820,Jose Hunter,Curtistown,Rajasthan,Cash,Barry-Scott
+45541,Suzuki,Access 125,168428,1,168428,Jonathan Arroyo,South Rhondashire,Maharashtra,Credit Card,"Munoz, Herrera and Holden"
+45135,Ducati,Monster,324611,3,973833,Sergio Rodriguez,Parsonsside,Gujarat,Credit Card,Bates-Miller
+45683,Harley-Davidson,Forty-Eight,206345,2,412690,Steven Johnson,Lake Melissa,Delhi,Debit Card,White Ltd
+45765,Suzuki,Gixxer,275675,2,551350,Reginald White,Kevinmouth,Delhi,Cash,Jones-Snyder
+45593,Kawasaki,Z650,255633,1,255633,Laura Villegas,Christopherborough,Gujarat,EMI,"Kerr, Johnson and Wheeler"
+45445,Yamaha,FZ,386630,2,773260,Kimberly Spears,South Caroline,West Bengal,Credit Card,Cain-Thompson
+45449,Yamaha,FZS,477668,1,477668,Charlene Hernandez,Lorihaven,West Bengal,Cash,Klein-Mcguire
+45127,Ducati,Scrambler,412445,1,412445,Jacob Hall,Jeffreyland,Rajasthan,Cash,Flynn-Hernandez
+45198,Ducati,Panigale,229670,3,689010,James Flynn,Johnhaven,Maharashtra,EMI,Tran Ltd
+45244,Ducati,Scrambler,471976,2,943952,Megan Jones,Jimmyburgh,Tamil Nadu,Cash,"Weaver, Jefferson and Sandoval"
+45396,Kawasaki,Z650,334786,2,669572,Alexandra Ortega,West Sandra,West Bengal,EMI,"Jenkins, Brennan and Smith"
+45711,Suzuki,Intruder,274180,3,822540,Ricky Mayo,Hallshire,Delhi,Online,Johnson Group
+45749,Suzuki,Access 125,95618,3,286854,Melissa Butler,Port Susanhaven,Gujarat,Credit Card,Whitney-Morrison
+45203,Yamaha,FZ,227777,2,455554,Shannon Mendoza,Singhland,Gujarat,Cash,Fuller-Davis
+45066,Harley-Davidson,Forty-Eight,389454,3,1168362,Molly Lara,Lake Jason,Delhi,Online,"Yoder, Juarez and Thompson"
+45536,Yamaha,FZ,214994,3,644982,Brian Randall,North Amandatown,Rajasthan,Online,"Clarke, Mendoza and Morris"
+45111,Harley-Davidson,Street 750,99927,2,199854,Leslie Fuller,Martinezfurt,Rajasthan,Online,"Mckay, Franklin and Wright"
+45548,Yamaha,MT-15,274019,3,822057,Stacey Diaz,Evanston,Karnataka,Online,Jones-Duffy
+45048,Royal Enfield,Himalayan,277837,2,555674,Paul Coleman,Brandyview,Gujarat,EMI,Holt-Chandler
+45165,Royal Enfield,Classic 350,280922,1,280922,Dakota Curry,Stevebury,Maharashtra,Credit Card,Cox-Glenn
+45219,Kawasaki,Versys,222312,3,666936,Christine Diaz,Lake Elijahfurt,West Bengal,Debit Card,Harris PLC
+45383,Honda,Hornet,162052,2,324104,Tammy Foster,Mckinneyborough,West Bengal,Debit Card,"Ellis, Singleton and Estrada"
+45666,Ducati,Panigale,375099,1,375099,Tammy Hanson,Nathanville,Tamil Nadu,Online,"Smith, Krause and Williams"
+45406,Suzuki,Gixxer,415269,2,830538,Tiffany Ortiz,Emilyton,Rajasthan,Credit Card,Lee-Martin
+45116,Ducati,Scrambler,117312,3,351936,Julie Ward,South Davidmouth,Karnataka,Cash,Moore-Watkins
+45242,Ducati,Scrambler,151765,3,455295,Robert Phillips,Matthewborough,Delhi,EMI,Clark and Sons
+45043,Royal Enfield,Bullet 350,95904,3,287712,Mark Hernandez,Marisafurt,Tamil Nadu,EMI,"Buck, Hughes and Thompson"
+45480,Harley-Davidson,Forty-Eight,100793,1,100793,Nicholas Garcia,Yeseniamouth,Maharashtra,Cash,Howe Inc
+45628,Yamaha,FZ,153013,3,459039,Maureen Sims,West Heather,West Bengal,Credit Card,"Lamb, Rodriguez and Johnson"
+45344,Suzuki,Gixxer,407841,2,815682,Tyler Fleming,East Josephchester,Gujarat,EMI,"Johnson, Wade and Rivera"
+45688,Kawasaki,Versys,356016,3,1068048,Joanne Quinn,South Justin,Rajasthan,EMI,Mitchell LLC
+45325,Suzuki,Access 125,253262,2,506524,George Perry,Ashleyview,Karnataka,EMI,"Hawkins, Foster and Reilly"
+45155,Royal Enfield,Himalayan,82335,1,82335,Jonathan Mendoza,Port Christinashire,Maharashtra,Online,"Michael, Evans and Hill"
+45385,Honda,Unicorn,365512,2,731024,Derek Wright,Boydview,Karnataka,Debit Card,Clarke Inc
+45492,Kawasaki,Z650,493132,3,1479396,Noah Sampson,Marshallport,Karnataka,Debit Card,Rodriguez Inc
+45653,Honda,Unicorn,178295,1,178295,Curtis Obrien,West Kathybury,Maharashtra,Credit Card,Morgan LLC
+45240,Ducati,Monster,426684,3,1280052,Richard Stevens,Davidberg,Tamil Nadu,EMI,James LLC
+45378,Kawasaki,Ninja 300,470480,2,940960,Alison Lee,Lake Jessicaberg,Maharashtra,Online,Chavez-Perez
+45330,Yamaha,FZS,370086,2,740172,Lindsay Zhang,East Emilyhaven,Delhi,EMI,Porter Group
+45732,Yamaha,R15,210801,1,210801,Nicole Duncan PhD,Lake Scott,Delhi,Debit Card,"King, Jones and Stone"
+45766,Harley-Davidson,Street 750,498304,1,498304,Edgar Gardner,East Christopherhaven,Delhi,Debit Card,Rose PLC
+45297,Yamaha,R15,371054,1,371054,Gregory Payne,West Joyceside,West Bengal,EMI,Boyd Ltd
+45596,Yamaha,MT-15,171849,1,171849,Christopher Bowen,East James,Karnataka,EMI,Johnson PLC
+45096,Royal Enfield,Bullet 350,235655,1,235655,Norma Terrell,New Michael,Delhi,EMI,Smith PLC
+45733,Honda,Hornet,468973,3,1406919,Alisha Mcdaniel,Lake Tiffanyshire,Rajasthan,Online,"Herrera, Miller and Kent"
+45081,Ducati,Monster,174123,1,174123,Jason Holt,West Robertfurt,Delhi,Debit Card,Le and Sons
+45306,Royal Enfield,Bullet 350,343161,1,343161,Sophia Bailey,Hoffmanburgh,West Bengal,Cash,"Fitzgerald, Perez and Roberts"
+45475,Honda,CB Shine,264908,3,794724,Michelle Byrd,Lake Rachel,Rajasthan,Online,Hernandez-Arnold
+45435,Suzuki,Access 125,148497,3,445491,Andrew Wilson,North Stephanie,West Bengal,Credit Card,"Walsh, Nelson and Miller"
+45381,Suzuki,Access 125,474802,3,1424406,Andrew Becker,Perezfort,Rajasthan,Online,"Sandoval, Perez and Reid"
+45369,Yamaha,FZS,184971,1,184971,David Solis,New Whitneyburgh,Maharashtra,Online,Hernandez and Sons
+45334,Honda,Hornet,253159,1,253159,Rachel Wilson DVM,New Michelleberg,Gujarat,Cash,"Miller, Wilson and Lucas"
+45506,Yamaha,MT-15,124652,2,249304,Jacob Schneider,West Evan,Rajasthan,EMI,Evans-Flynn
+45693,Ducati,Monster,382999,3,1148997,Holly Jackson,South Amber,West Bengal,Debit Card,Juarez-Mathis
+45169,Honda,CB Shine,433085,2,866170,David Phillips,Richardfort,Maharashtra,EMI,"Garcia, Patton and Smith"
+45648,Ducati,Monster,115271,2,230542,Jeremy Nelson,South Katherine,Gujarat,Online,"Salazar, Howard and Knight"
+45444,Ducati,Panigale,475715,3,1427145,April Stewart,Carlosfort,Tamil Nadu,EMI,Baker-Graves
+45654,Kawasaki,Ninja 300,424153,2,848306,James Brown,Emilyview,Tamil Nadu,Credit Card,Andrews-Little
+45129,Suzuki,Gixxer,413025,2,826050,Eric Howe,New Joshuabury,West Bengal,Credit Card,"Figueroa, Herrera and Rogers"
+45646,Honda,Hornet,255629,1,255629,Stephanie Brandt,Kimberlyborough,Maharashtra,Online,"Herrera, Mason and Elliott"
+45208,Yamaha,MT-15,292118,2,584236,Sonya Moreno,North Robin,Maharashtra,Cash,"Moran, Hamilton and Spence"
+45550,Suzuki,Gixxer,113772,2,227544,Gary Campbell,Juanmouth,Maharashtra,Cash,Walsh and Sons
+45594,Ducati,Scrambler,468055,3,1404165,Elizabeth Smith,West Gabrielfurt,Gujarat,Debit Card,Mejia-Harris
+45351,Royal Enfield,Classic 350,305443,1,305443,John Sexton,New Abigail,Karnataka,Cash,Alexander LLC
+45313,Ducati,Scrambler,196888,3,590664,Nicholas Wood,Petershire,Gujarat,Credit Card,Wilson-Carter
+45055,Kawasaki,Ninja 300,153347,3,460041,Jesse Perkins,Cantrellmouth,Gujarat,Debit Card,"Lee, Fletcher and Baldwin"
+45584,Yamaha,FZ,201621,2,403242,Michelle Olson,East Jeffrey,Maharashtra,Online,"Bass, Dixon and Farmer"
+45126,Royal Enfield,Classic 350,469490,3,1408470,Brian Mcmillan,Ronaldmouth,West Bengal,Debit Card,Ford Group
+45364,Suzuki,Access 125,112747,2,225494,Emily Woods,East Ashleyview,Maharashtra,Credit Card,"Stevens, Hopkins and Perez"
+45497,Royal Enfield,Classic 350,141350,3,424050,Brent Jordan,South Charles,Delhi,Credit Card,Brewer-Middleton
+45424,Kawasaki,Z650,227391,2,454782,Lisa Callahan,West Darrell,Maharashtra,Cash,Brown-Dean
+45491,Honda,Hornet,385800,1,385800,Wendy West,Leeberg,Delhi,Online,"Tyler, Thomas and Reyes"
+45242,Harley-Davidson,Iron 883,241771,2,483542,Eric Wheeler,South Daniel,Maharashtra,Cash,Rodriguez Ltd
+45126,Kawasaki,Z650,418680,1,418680,Dawn Browning,Haileyton,Rajasthan,EMI,Cobb-Schmidt
+45608,Yamaha,R15,155653,3,466959,Mark Krause,New Matthew,Maharashtra,Debit Card,Lynch-Curry
+45334,Kawasaki,Ninja 300,437946,3,1313838,Christopher Fisher,Patriciahaven,Rajasthan,EMI,Hall Group
+45066,Kawasaki,Versys,295997,1,295997,Emily Grant,Crawfordchester,West Bengal,Credit Card,Morgan LLC
+45238,Harley-Davidson,Forty-Eight,123324,2,246648,Willie Smith MD,Lake Rachael,Karnataka,Debit Card,"Martin, Burke and Ryan"
+45516,Royal Enfield,Himalayan,305568,3,916704,Phillip Webster,Lake Tammyville,Gujarat,Debit Card,Smith-Blackwell
+45568,Harley-Davidson,Forty-Eight,404481,3,1213443,David Taylor,Port Amyport,Rajasthan,Online,"Taylor, Spence and Lucas"
+45215,Yamaha,FZ,441889,1,441889,David Fuller,Lake Becky,Rajasthan,Cash,Crosby-Kline
+45124,Suzuki,Intruder,489269,1,489269,Devin Shaffer,West Annetteburgh,Karnataka,EMI,"Robinson, Patterson and Smith"
+45425,Harley-Davidson,Street 750,208162,1,208162,Jessica Cline,Smithland,Delhi,Credit Card,"Gutierrez, Powell and Lucas"
+45183,Suzuki,Access 125,395436,2,790872,Erin Elliott,Davidfurt,Gujarat,Cash,Francis Ltd
+45366,Royal Enfield,Bullet 350,463112,1,463112,Michael Atkins,Lake Roberthaven,Rajasthan,Online,"Wood, Miles and Gates"
+45402,Royal Enfield,Bullet 350,239132,2,478264,Ryan Dunn,Hardinberg,Tamil Nadu,Debit Card,Chang-Bell
+45200,Kawasaki,Z650,136176,2,272352,Marie Ferguson,West Zacharymouth,Delhi,Credit Card,"Gonzalez, Chapman and Walker"
+45541,Suzuki,Gixxer,292053,2,584106,Terry Maldonado,Austinshire,Maharashtra,Online,Taylor PLC
+45257,Honda,CBR500R,92351,2,184702,Rebecca Anderson,Coleville,Delhi,Debit Card,Pitts and Sons
